@@ -1,0 +1,17 @@
+{
+    "en": {
+        "medmcqa": 209,
+        "medqa-usmle": 63,
+        "mmlu-medical": 93,
+        "pubmedqa": 50,
+        "sum": 415
+    },
+    "ch": {
+        "cmmlu-medical": 66,
+        "medqa-mcmle": 171,
+        "cmb-single": 100,
+        "cmexam": 100,
+        "sum": 437
+    },
+    "sum": 852
+}
