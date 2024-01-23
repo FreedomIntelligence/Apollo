@@ -88,9 +88,12 @@
 
 Step 1: Prepare Training Data
 
-Step 2: Train your model
+   1. [Back Translation using LLMs](https://github.com/FreedomIntelligence/Medbase/tree/main/src/process/openai_rewrite): Run Bash File
+   2. [Prepare Training tokens for LLMs](https://github.com/FreedomIntelligence/Medbase/tree/main/src/process/prepare): Run Bash File
 
-Step 3: Evaluation
+
+Step 2: [Train your model](https://github.com/FreedomIntelligence/Medbase/tree/main/src/sft): Run Bash file
+Step 3: [Evaluation](https://github.com/FreedomIntelligence/Medbase/tree/main/src/evaluate): Run Bash file
 
 </details>
 
