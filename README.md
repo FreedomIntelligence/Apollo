@@ -70,11 +70,13 @@
         - [MedQA-USMLE](https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options) 
         - [MedMCQA](https://huggingface.co/datasets/medmcqa/viewer/default/test)
         - [PubMedQA](https://huggingface.co/datasets/pubmed_qa)
-        - [MMLU-Medical](https://huggingface.co/datasets/cais/mmlu)   Clinical knowledge, Medical genetics, Anatomy, Professional medicine, College biology, College medicine 
+        - [MMLU-Medical](https://huggingface.co/datasets/cais/mmlu)
+           - Clinical knowledge, Medical genetics, Anatomy, Professional medicine, College biology, College medicine 
    - ZH:
         - [MedQA-MCMLE](https://huggingface.co/datasets/bigbio/med_qa/viewer/med_qa_zh_4options_bigbio_qa/test)
         - [CMB-single](https://huggingface.co/datasets/FreedomIntelligence/CMB)
-        - [CMMLU-Medical](https://huggingface.co/datasets/haonan-li/cmmlu) anatomy, clinical_knowledge, college_medicine, genetics, nutrition, traditional_chinese_medicine, virology
+        - [CMMLU-Medical](https://huggingface.co/datasets/haonan-li/cmmlu)
+           - Anatomy, Clinical_knowledge, College_medicine, Genetics, Nutrition, Traditional_chinese_medicine, Virology
         - [CExam](https://github.com/williamliujl/CMExam)
    - Prompt: Please refer to [test generate code](https://github.com/FreedomIntelligence/Medbase/blob/main/src/process/prepare/data_process_test_qwen.py)
       
