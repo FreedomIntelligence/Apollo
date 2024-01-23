@@ -1,6 +1,6 @@
-# MedBase, Exploring the boundaries of open source LLM’s medical capabilities
+# Bilingual (EN&amp;ZH) Medical Basic Models
 
-Bilingual (EN&amp;ZH) Medical Basic Models
+
 
 
 <center>
