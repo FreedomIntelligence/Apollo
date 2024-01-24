@@ -76,15 +76,15 @@
     - [MedMCQA](https://huggingface.co/datasets/medmcqa/viewer/default/test)
     - [PubMedQA](https://huggingface.co/datasets/pubmed_qa)
     - [MMLU-Medical](https://huggingface.co/datasets/cais/mmlu)
-      - Clinical knowledge, Medical genetics, Anatomy, Professional medicine, College biology, College medicine
+       - Clinical knowledge, Medical genetics, Anatomy, Professional medicine, College biology, College medicine
   - ZH:
      - [MedQA-MCMLE](https://huggingface.co/datasets/bigbio/med_qa/viewer/med_qa_zh_4options_bigbio_qa/test)
      - [CMB-single](https://huggingface.co/datasets/FreedomIntelligence/CMB)
-      - Randomly sample 2,000 multiple-choice questions with single answer.
+        - Randomly sample 2,000 multiple-choice questions with single answer.
      - [CMMLU-Medical](https://huggingface.co/datasets/haonan-li/cmmlu)
-      - Anatomy, Clinical_knowledge, College_medicine, Genetics, Nutrition, Traditional_chinese_medicine, Virology
+        - Anatomy, Clinical_knowledge, College_medicine, Genetics, Nutrition, Traditional_chinese_medicine, Virology
      - [CExam](https://github.com/williamliujl/CMExam)
-      - Randomly sample 2,000 multiple-choice questions
+        - Randomly sample 2,000 multiple-choice questions
    - Prompt: Please refer to [test generate code](https://github.com/FreedomIntelligence/Medbase/blob/main/src/process/prepare/data_process_test_qwen.py)
          
    </details>
