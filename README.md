@@ -13,7 +13,7 @@
 
 <p align="center">
    📃 <a href="" target="_blank">Paper</a> • 🌐 <a href="" target="_blank">Website</a> • 🤗 <a href="" target="_blank">HuggingFace</a>  
-   <br>  <a href="./README_zh.md">   中文</a> | <a href="./README_zh.md"> English
+   <br>  <a href="./README_zh.md">   中文</a> | <a href="./README.md"> English
 </p>
 
      
@@ -80,9 +80,11 @@
   - ZH:
      - [MedQA-MCMLE](https://huggingface.co/datasets/bigbio/med_qa/viewer/med_qa_zh_4options_bigbio_qa/test)
      - [CMB-single](https://huggingface.co/datasets/FreedomIntelligence/CMB)
+      - Randomly sample 2,000 multiple-choice questions with single answer.
      - [CMMLU-Medical](https://huggingface.co/datasets/haonan-li/cmmlu)
-     - Anatomy, Clinical_knowledge, College_medicine, Genetics, Nutrition, Traditional_chinese_medicine, Virology
+      - Anatomy, Clinical_knowledge, College_medicine, Genetics, Nutrition, Traditional_chinese_medicine, Virology
      - [CExam](https://github.com/williamliujl/CMExam)
+      - Randomly sample 2,000 multiple-choice questions
    - Prompt: Please refer to [test generate code](https://github.com/FreedomIntelligence/Medbase/blob/main/src/process/prepare/data_process_test_qwen.py)
          
    </details>
