@@ -114,7 +114,7 @@ Please use the following citation if you intend to use our dataset for training 
 ```
 @misc{medbase,
   title={MedBase, Exploring the boundaries of open source LLM medical capabilities},
-  author={Xidong Wang*, Yidong Wang*, Junyin Chen, Zhiyi Zhang, Benyou Wang},
+  author={Xidong Wang*, Junyin Chen*, Yidong Wang, Zhiyi Zhang, Benyou Wang},
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
