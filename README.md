@@ -1,4 +1,4 @@
-# Bilingual (EN&amp;ZH) Medical Basic Models
+# Multilingual Medical Basic Models
 
 
 
