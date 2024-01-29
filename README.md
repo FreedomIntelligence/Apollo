@@ -20,7 +20,7 @@
 
 ## 🌈 Update
 
-**Waiting for update, coming soon (Maybe 1.27)**
+**Waiting for update, coming soon **
 
 * **[2024.01.23]** Medbase repo is published！🎉
 
