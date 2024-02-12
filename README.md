@@ -22,7 +22,7 @@
 
 **Waiting for update, coming soon**
 
-* **[2024.01.23]** <a href="https://huggingface.co/datasets/FreedomIntelligence/Medbase_data" target="_blank">Medbase_data</a> and  <a href="https://huggingface.co/datasets/FreedomIntelligence/Medbase_eval" target="_blank">Medbase_eval</a>  is published！🎉
+* **[2024.02.12]** <a href="https://huggingface.co/datasets/FreedomIntelligence/Medbase_data" target="_blank">Medbase_data</a> and  <a href="https://huggingface.co/datasets/FreedomIntelligence/Medbase_eval" target="_blank">Medbase_eval</a>  is published！🎉
 * **[2024.01.23]** Medbase repo is published！🎉
 
 
