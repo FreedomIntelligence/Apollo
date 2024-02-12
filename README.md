@@ -1,4 +1,4 @@
-# Multilingual Medical Basic Models
+# Multilingual Medical Basic Models (En/ZH/ES/FR/AR/HI)
 
 
 
@@ -50,18 +50,20 @@
    <details><summary>Click to expand</summary>
    
    
-  | Data Type          | Description                  | Source(ZH)                                                   | Source(EN)                                                   |
-  | ------------------ | ---------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-  | Medical Books      | Medical related Books        | MedQA-books                                                  | Pile-Books                                                   |
-  | Medical Guidelines | Clinical Medicine Guide      | Chinese Medical Association                                  | [Medtron guideline](https://huggingface.co/datasets/epfl-llm/guidelines) |
-  | Medical Wiki       | Medical related wikipedia    | Wikipedia & Wikidoc                                          | Wikipedia  & Wikidoc                                         |
-  | Medical Paper      | Medical related paper        | Papers abstract                                              | PubMed Abstract                                              |
-  | Medical Web        | Medical related web data     | Wudao                                                        | C4                                                           |
-  | Medical Exam       | Medical related exams        | MedQA CExam CMB (Train Set)                                  | MedQA MedmcQA PubMedQA  (Train Set)                          |
-  | Medical Patient    | Doctor-patient dialogue data | [HuatuoGPT-I](https://huggingface.co/datasets/FreedomIntelligence/HuatuoGPT-sft-data-v1) | [PMC_patients](https://huggingface.co/datasets/zhengyun21/PMC-Patients?row=34) |
-  | General_Replay     | General SFT Data             | Wizard & ShareGPT & Alpaca                                   | Wizard & ShareGPT & Alpaca & [Dataset List](https://huggingface.co/jondurbin/bagel-dpo-34b-v0.2#sft-data-sources) |
-  | Code               | Code Data                    | [leetcode-11k](https://huggingface.co/datasets/krisfu/awesome-llm-datasets-only-Chinese) | [python_alpaca](https://huggingface.co/datasets/Vezora/Tested-22k-Python-Alpaca) |
-  | Math               | Math Data                    |                                                              | [mathinstruct](https://huggingface.co/datasets/TIGER-Lab/MathInstruct) |
+  | Data Type          | Description                  | Source(ZH)                                                   | Source(EN)                                                   | Source(FR)                                                   | Source(ES)                                               | Source(AR)                                                   | Source(HI)                                                   |
+| ------------------ | ---------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Continue Pretrain  |                              |                                                              |                                                              |                                                              |                                                          |                                                              |                                                              |
+| Medical Books      | Medical related Books        | MedQA-books                                                  | Pile-Books                                                   | -                                                            |                                                          |                                                              |                                                              |
+| Medical Guidelines | Clinical Medicine Guide      | Chinese Medical Association                                  | [Medtron guideline](https://huggingface.co/datasets/epfl-llm/guidelines) | -                                                            |                                                          |                                                              |                                                              |
+| Medical Wiki       | Medical related wikipedia    | Wikipedia & Wikidoc                                          | Wikipedia  & Wikidoc                                         | [CLEAR - Simple Corpus for Medical French](http://natalia.grabar.free.fr/resources.php#clear) | -                                                        | -                                                            | [Hindi_health](https://www.kaggle.com/datasets/aijain/hindi-health-dataset/data?select=Symptom+Gazetteer.txt) |
+| Medical Paper      | Medical related paper        | Papers abstract                                              | PubMed Abstract                                              | [MORFITT](https://huggingface.co/datasets/qanastek/MORFITT?row=98): Pubmed-french Cochrane: [CLEAR-](http://natalia.grabar.free.fr/resources.php#clear)abs | [Mesinesp](https://zenodo.org/records/3826492)           | -                                                            | -                                                            |
+| Medical Web        | Medical related web data     | Wudao                                                        | C4                                                           | [Frenchmedmcqa](https://github.com/qanastek/FrenchMedMCQA)_train | [CoWeSe](https://zenodo.org/records/5513237)             | -                                                            | -                                                            |
+| SFT                |                              |                                                              |                                                              |                                                              |                                                          |                                                              |                                                              |
+| Medical Exam       | Medical related exams        | MedQA CExam CMB (Train Set)                                  | MedQA MedmcQA PubMedQA  (Train Set)                          | -                                                            | [Head_qa](https://huggingface.co/datasets/head_qa)_train | -                                                            | -                                                            |
+| Medical Patient    | Doctor-patient dialogue data | [HuatuoGPT-I](https://huggingface.co/datasets/FreedomIntelligence/HuatuoGPT-sft-data-v1) | [PMC_patients](https://huggingface.co/datasets/zhengyun21/PMC-Patients?row=34) | -                                                            | -                                                        | [MAQA](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Y2JBEZ) | -                                                            |
+| General_Replay     | General SFT Data             | Wizard & ShareGPT & Alpaca                                   | Wizard & ShareGPT & Alpaca & [Dataset List](https://huggingface.co/jondurbin/bagel-dpo-34b-v0.2#sft-data-sources) | ShareGPT & Alpaca                                            | ShareGPT & Alpaca                                        | ShareGPT & Alpaca                                            | ShareGPT & Alpaca                                            |
+| Code               | Code Data                    | [leetcode-11k](https://huggingface.co/datasets/krisfu/awesome-llm-datasets-only-Chinese) | [python_alpaca](https://huggingface.co/datasets/Vezora/Tested-22k-Python-Alpaca) | -                                                            | -                                                        | -                                                            | -                                                            |
+| Math               | Math Data                    |                                                              | [mathinstruct](https://huggingface.co/datasets/TIGER-Lab/MathInstruct) | -                                                            | -                                                        | -                                                            | -                                                            |
    
    
    </details>
@@ -85,6 +87,14 @@
         - Anatomy, Clinical_knowledge, College_medicine, Genetics, Nutrition, Traditional_chinese_medicine, Virology
      - [CExam](https://github.com/williamliujl/CMExam)
         - Randomly sample 2,000 multiple-choice questions
+
+
+  - ES: Head_qa
+  - FR: Frenchmedmcqa
+  - HI: MMLU_HI
+  - AR: MMLU_Ara
+      
+  
    - Prompt: Please refer to [test generate code](https://github.com/FreedomIntelligence/Medbase/blob/main/src/process/prepare/data_process_test_qwen.py)
          
    </details>
@@ -114,7 +124,7 @@ Please use the following citation if you intend to use our dataset for training 
 ```
 @misc{medbase,
   title={MedBase, Exploring the boundaries of open source LLM medical capabilities},
-  author={Xidong Wang*, Junyin Chen*, Yidong Wang, Zhiyi Zhang, Benyou Wang},
+  author={Xidong Wang, Junyin Chen, Nuo Chen, Yidong Wang, Zhiyi Zhang, Benyou Wang},
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
