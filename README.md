@@ -1,6 +1,6 @@
-# Multilingual Medical Basic: Model, Dataset, Benchmark, Code
+# Multilingual Medicine: Model, Dataset, Benchmark, Code
 
-English/Chinese/Spanish/French/Arabic/Hindi
+Language Coverage so far: English, Chinese, Spanish, French, Arabic, Hindi
 
 
 <center>
