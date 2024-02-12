@@ -1,4 +1,4 @@
-# Multilingual Medical Basic Model (En/ZH/ES/FR/AR/HI)
+# Multilingual Medical Basic Model (EN/ZH/ES/FR/AR/HI)
 
 
 
