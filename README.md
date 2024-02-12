@@ -1,4 +1,4 @@
-# Multilingual Medical Basic Model (EN/ZH/ES/FR/AR/HI)
+# Multilingual Medical Basic (EN/ZH/ES/FR/AR/HI): Model, Dataset, Benchmark, Code
 
 
 
