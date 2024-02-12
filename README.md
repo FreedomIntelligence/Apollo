@@ -1,6 +1,6 @@
-# Multilingual Medical Basic (EN/ZH/ES/FR/AR/HI): Model, Dataset, Benchmark, Code
+# Multilingual Medical Basic: Model, Dataset, Benchmark, Code
 
-
+English/Chinese/Spanish/French/Arabic/Hindi
 
 
 <center>
