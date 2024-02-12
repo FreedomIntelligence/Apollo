@@ -20,7 +20,7 @@
 
 ## 🌈 Update
 
-** Waiting for update, coming soon **
+**Waiting for update, coming soon**
 
 * **[2024.01.23]** Medbase repo is published！🎉
 
@@ -89,10 +89,12 @@
         - Randomly sample 2,000 multiple-choice questions
 
 
-  - ES: Head_qa
-  - FR: Frenchmedmcqa
-  - HI: MMLU_HI
-  - AR: MMLU_Ara
+  - ES: [Head_qa](https://huggingface.co/datasets/head_qa)
+  - FR: [Frenchmedmcqa](https://github.com/qanastek/FrenchMedMCQA)
+  - HI: [MMLU_HI](https://huggingface.co/datasets/FreedomIntelligence/MMLU_Arabic)
+    - Clinical knowledge, Medical genetics, Anatomy, Professional medicine, College biology, College medicine
+  - AR: [MMLU_Ara](https://huggingface.co/datasets/FreedomIntelligence/MMLU_Hindi)
+    - Clinical knowledge, Medical genetics, Anatomy, Professional medicine, College biology, College medicine
       
   
    - Prompt: Please refer to [test generate code](https://github.com/FreedomIntelligence/Medbase/blob/main/src/process/prepare/data_process_test_qwen.py)
@@ -102,7 +104,6 @@
 
 ## Results reproduction
    <details><summary>Click to expand</summary>
-   
    
    1. Prepare Training Data
       - [Back Translation using LLMs](https://github.com/FreedomIntelligence/Medbase/tree/main/src/process/openai_rewrite): Run Bash File
