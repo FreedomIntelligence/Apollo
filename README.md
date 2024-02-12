@@ -13,7 +13,7 @@
 
 <p align="center">
    📃 <a href="" target="_blank">Paper</a> • 🌐 <a href="" target="_blank">Website</a> • 🤗 <a href="https://huggingface.co/datasets/FreedomIntelligence/Medbase_data" target="_blank">Medbase_data</a>  
-   <br> 🤗 <a href="" target="_blank">Medbase_0.5B</a> • 🤗 <a href="" target="_blank">Medbase_1.8B</a> • 🤗 <a href="" target="_blank">Medbase_1.8B*8</a>  • 🤗 <a href="" target="_blank">Medbase_1.8B*4</a> • 🤗 <a href="" target="_blank">Medbase_6B</a> 
+   <br> 🤗 <a href="" target="_blank">Medbase_0.5B</a> • 🤗 <a href="" target="_blank">Medbase_1.8B</a> • 🤗 <a href="" target="_blank">Medbase_1.8B*4</a>  • 🤗 <a href="" target="_blank">Medbase_1.8B*8</a> • 🤗 <a href="" target="_blank">Medbase_6B</a> 
    <br>  <a href="./README_zh.md">   中文</a> | <a href="./README.md"> English
 </p>
 
