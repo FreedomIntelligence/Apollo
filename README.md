@@ -63,7 +63,7 @@ Please use the following citation if you intend to use our dataset for training 
 
 ```
 @misc{Apollo,
-  title={Apollo, Exploring the boundaries of open source LLM medical capabilities},
+  title={Apollo, Multilingual Medicine: Model, Dataset, Benchmark, Code},
   author={Xidong Wang, Junyin Chen, Nuo Chen, Yidong Wang, Zhiyi Zhang, Benyou Wang},
   year = {2024},
   publisher = {GitHub},
