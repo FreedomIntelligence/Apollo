@@ -28,14 +28,14 @@ Language Coverage so far: English, Chinese, Spanish, French, Arabic, Hindi
 
 ## Results
    🤗 <a href="" target="_blank">Apollo-0.5B</a> • 🤗 <a href="" target="_blank">Apollo-1.8B</a> • 🤗 <a href="" target="_blank">Apollo-2B</a>  • 🤗 <a href="" target="_blank">Apollo-6B</a> • 🤗 <a href="" target="_blank">Apollo-7B</a> 
-   <details><summary>Click to expand</summary>
+   
    
    
   ![Apollo](assets/result.png)
       
    
    
-   </details>
+  
 
 
 ## Dataset & Evaluation
