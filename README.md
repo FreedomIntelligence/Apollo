@@ -16,8 +16,6 @@
 
 ## 🌈 Update
 
-**Waiting for update, coming soon**
-
 * **[2024.02.12]** <a href="https://huggingface.co/datasets/FreedomIntelligence/Apollo_data" target="_blank">ApolloCorpus</a> and  <a href="https://huggingface.co/datasets/FreedomIntelligence/Apollo_eval" target="_blank">XMedBench</a>  is published！🎉
 * **[2024.01.23]** Apollo repo is published！🎉
 
