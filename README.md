@@ -6,7 +6,7 @@
 </center>
 
 
-< img src="assets/apollo.png" style="display: inline-block; vertical-align: top;"/>
+< img src="https://github.com/FreedomIntelligence/Apollo/blob/main/assets/apollo.png" style="display: inline-block; vertical-align: top;"/>
 
 <p align="center">
    📃 <a href="" target="_blank">Paper</a> • 🌐 <a href="https://apollo.llmzoo.com/" target="_blank">Website</a> • 🤗 <a href="https://huggingface.co/datasets/FreedomIntelligence/ApolloCorpus" target="_blank">ApolloCorpus</a> • 🤗 <a href="https://huggingface.co/datasets/FreedomIntelligence/XMedBench" target="_blank">XMedBench</a> 
