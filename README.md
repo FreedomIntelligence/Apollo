@@ -8,7 +8,7 @@
 
 
 <p align="center">
-   📃 <a href="" target="_blank">Paper</a> • 🌐 <a href="https://apollo.llmzoo.com/" target="_blank">Website</a> • 🤗 <a href="https://huggingface.co/datasets/FreedomIntelligence/ApolloCorpus" target="_blank">ApolloCorpus</a> • 🤗 <a href="https://huggingface.co/datasets/FreedomIntelligence/XMedBench" target="_blank">XMedBench</a> 
+   📃 <a href="" target="_blank">Paper</a> • 🌐 <a href="https://apollo.llmzoo.com/" target="_blank">Demo</a> • 🤗 <a href="https://huggingface.co/datasets/FreedomIntelligence/ApolloCorpus" target="_blank">ApolloCorpus</a> • 🤗 <a href="https://huggingface.co/datasets/FreedomIntelligence/XMedBench" target="_blank">XMedBench</a> 
    <br>  <a href="./README_zh.md"> 中文 </a> | <a href="./README.md"> English
 </p>
 
