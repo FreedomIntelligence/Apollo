@@ -43,7 +43,7 @@
 
 ## Results reproduction
    <details><summary>Click to expand</summary>
-   
+   **Waiting for Update**
    1. Prepare Train/Test Data
       - [Back Translation using LLMs](https://github.com/FreedomIntelligence/Apollo/tree/main/src/process/openai_rewrite): Run Bash File
       - [Prepare Training tokens for LLMs](https://github.com/FreedomIntelligence/Apollo/tree/main/src/process/prepare): Run Bash File
