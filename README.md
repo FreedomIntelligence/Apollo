@@ -37,11 +37,39 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
 
 - Dataset
   🤗 <a href="https://huggingface.co/datasets/FreedomIntelligence/ApolloCorpus" target="_blank">ApolloCorpus
-
+   
 - Evaluation
   🤗 <a href="https://huggingface.co/datasets/FreedomIntelligence/XMedbench" target="_blank">XMedBench</a> 
 
+   <details><summary>Click to expand</summary>
+      
+     - EN:
+       - [MedQA-USMLE](https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options) 
+       - [MedMCQA](https://huggingface.co/datasets/medmcqa/viewer/default/test)
+       - [PubMedQA](https://huggingface.co/datasets/pubmed_qa): Because the results fluctuated too much, they were not used in the paper.
+       - [MMLU-Medical](https://huggingface.co/datasets/cais/mmlu)
+         - Clinical knowledge, Medical genetics, Anatomy, Professional medicine, College biology, College medicine
+     - ZH:
+       - [MedQA-MCMLE](https://huggingface.co/datasets/bigbio/med_qa/viewer/med_qa_zh_4options_bigbio_qa/test)
+       - [CMB-single](https://huggingface.co/datasets/FreedomIntelligence/CMB): Not used in the paper
+         - Randomly sample 2,000 multiple-choice questions with single answer.
+       - [CMMLU-Medical](https://huggingface.co/datasets/haonan-li/cmmlu)
+         - Anatomy, Clinical_knowledge, College_medicine, Genetics, Nutrition, Traditional_chinese_medicine, Virology
+       - [CExam](https://github.com/williamliujl/CMExam): Not used in the paper
+         - Randomly sample 2,000 multiple-choice questions
 
+
+     - ES: [Head_qa](https://huggingface.co/datasets/head_qa)
+     - FR: [Frenchmedmcqa](https://github.com/qanastek/FrenchMedMCQA)
+     - HI: [MMLU_HI](https://huggingface.co/datasets/FreedomIntelligence/MMLU_Arabic)
+        - Clinical knowledge, Medical genetics, Anatomy, Professional medicine, College biology, College medicine
+     - AR: [MMLU_Ara](https://huggingface.co/datasets/FreedomIntelligence/MMLU_Hindi)
+        - Clinical knowledge, Medical genetics, Anatomy, Professional medicine, College biology, College medicine
+
+
+   </details>
+
+   
 ## Results reproduction
    <details><summary>Click to expand</summary>
    
