@@ -46,11 +46,7 @@
    
    **Waiting for Update**
       
-   1. Prepare Train/Test Data
-      - [Back Translation using LLMs](https://github.com/FreedomIntelligence/Apollo/tree/main/src/process/openai_rewrite): Run Bash File
-      - [Prepare Training tokens for LLMs](https://github.com/FreedomIntelligence/Apollo/tree/main/src/process/prepare): Run Bash File
-   2. [Train your model](https://github.com/FreedomIntelligence/Apollo/tree/main/src/sft): Run Bash file
-   3. [Evaluation](https://github.com/FreedomIntelligence/Apollo/tree/main/src/evaluate): Run Bash file
+
    
    </details>
 
