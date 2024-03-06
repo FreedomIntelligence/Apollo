@@ -83,7 +83,8 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
 
 ##  Acknowledgment
 
-This Repo is highly dependent on [HuatuoGPT-II](https://github.com/FreedomIntelligence/HuatuoGPT-II)
+- [HuatuoGPT-II](https://github.com/FreedomIntelligence/HuatuoGPT-II)
+- [proxy-tuning](https://github.com/alisawuffles/proxy-tuning)
 
 ##  Citation
 Please use the following citation if you intend to use our dataset for training or evaluation:
