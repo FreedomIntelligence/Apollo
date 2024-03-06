@@ -35,10 +35,10 @@
 ## Dataset & Evaluation
 
 - Dataset
-  🤗 <a href="https://huggingface.co/datasets/FreedomIntelligence/Apollo_data" target="_blank">ApolloCorpus
+  🤗 <a href="https://huggingface.co/datasets/FreedomIntelligence/ApolloCorpus" target="_blank">ApolloCorpus
 
 - Evaluation
-  🤗 <a href="https://huggingface.co/datasets/FreedomIntelligence/Apollo_eval" target="_blank">XMedBench</a> 
+  🤗 <a href="https://huggingface.co/datasets/FreedomIntelligence/XMedbench" target="_blank">XMedBench</a> 
 
 
 ## Results reproduction
