@@ -1,5 +1,5 @@
+# Multilingual Medicine: Model, Dataset, Benchmark, Code
 
-![Apollo](assets/apollo_medium_final.png)
 <center>
 
 ![Python 3.10](https://img.shields.io/badge/Python-3.10-lightblue) ![Pytorch 2.1.2](https://img.shields.io/badge/PyTorch-2.1.2-lightblue) ![transformers](https://img.shields.io/badge/transformers-4.34.0.dev0%2B-lightblue) ![accelerate](https://img.shields.io/badge/accelerate-0.22-lightblue)
@@ -12,7 +12,7 @@
    <br>  <a href="./README_zh.md"> 中文 </a> | <a href="./README.md"> English
 </p>
 
-     
+![Apollo](assets/apollo_medium_final.png)
 
 ## 🌈 Update
 
