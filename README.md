@@ -25,12 +25,12 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
 ## Results
    🤗 <a href="https://huggingface.co/FreedomIntelligence/Apollo-0.5B" target="_blank">Apollo-0.5B</a> • 🤗 <a href="https://huggingface.co/FreedomIntelligence/Apollo-1.8B" target="_blank">Apollo-1.8B</a> • 🤗 <a href="https://huggingface.co/FreedomIntelligence/Apollo-2B" target="_blank">Apollo-2B</a>  • 🤗 <a href="https://huggingface.co/FreedomIntelligence/Apollo-6B" target="_blank">Apollo-6B</a> • 🤗 <a href="https://huggingface.co/FreedomIntelligence/Apollo-7B" target="_blank">Apollo-7B</a> 
    
-   <details><summary>Click to expand</summary>
+   
    
    ![Apollo](assets/result.png)
       
    
-   </details>
+   
   
 
 
