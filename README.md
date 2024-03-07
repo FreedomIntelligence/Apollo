@@ -126,7 +126,9 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
    
 ## Results reproduction
    <details><summary>Click to expand</summary>
-   
+
+To facilitate training and evaluation, a series of bash scripts are provided below. These scripts are exemplified with the Qwen model and include steps for data download, processing, training, and evaluation. If you are working with a different model, adjustments to the content of these bash files may be necessary.
+
 ```python
 bash 0.download_data.sh
 bash 1.data_process_test&dev.sh
@@ -135,7 +137,6 @@ bash 3.single_node_train_qwen.sh
 bash 4.eval.sh
 ```
 After executing these commands, the score will be saved at `score_path`.
-
    
    </details>
 
