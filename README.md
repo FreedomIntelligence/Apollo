@@ -130,41 +130,41 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
    We take Gemma-2b as example
    1. Download Dataset for project:
 
-    ```bash
+    ```
     bash 0.download_data.sh
     ```
     
    2. Prepare test and dev for specific model:
-    We create test data for specific model with their special token
+    - We create test data for specific model with their special token
 
-    ```bash
+    ```
     bash 1.data_process_test&dev.sh
     ```
     
    3. Prepare train data for specific model (Create tokenizered data in advance):
     - You can adjust data Training order and Training Epoch in this step
       
-    ```bash
+    ```
     bash 2.data_process_train.sh
     ```
     
    4. Train the model
     - If you want to train in Multi Nodes please refer to ./scripts/multi_node_train_*.sh
       
-    ```bash
+    ```
     bash 3.single_node_train_qwen.sh
     ```
     
    5. Evaluate your model
     - Generate score for benchmark
       
-      ```bash
+      ```
       bash 4.eval.sh
       ```
       
     - Play with your ckpts in bash
     
-      ```bash
+      ```
       python ./src/evaluate/cli_demo.py --model_name='./ckpts/your/path/tfmr'
       ```
   
