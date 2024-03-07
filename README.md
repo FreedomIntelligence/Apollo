@@ -127,8 +127,14 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
 ## Results reproduction
    <details><summary>Click to expand</summary>
    
-   **Waiting for Update**
-      
+```python
+bash 0.download_data.sh
+bash 1.data_process_test&dev.sh
+bash 2.data_process_train.sh
+bash 3.single_node_train_qwen.sh
+bash 4.eval.sh
+```
+After executing these commands, the score will be saved at `score_path`.
 
    
    </details>
@@ -154,6 +160,8 @@ Please use the following citation if you intend to use our dataset for training 
 }
 ```
 
+## Contribution and Feedback
+If you encounter any issues or have suggestions, requests, or want to report a bug, please feel free to open a GitHub issue. We welcome PRs!
 
 ## Star History
 
