@@ -42,8 +42,8 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
 
     ![Apollo](assets/dataset.png)
 
-    - [Zip File](https://huggingface.co/datasets/FreedomIntelligence/Medbase_data/blob/main/Medbase_data-datasets.zip)
-    - [Data category](https://huggingface.co/datasets/FreedomIntelligence/Medbase_data/tree/main/train)
+    - [Zip File](https://huggingface.co/datasets/FreedomIntelligence/ApolloCorpus/blob/main/ApolloCorpus.zip)
+    - [Data category](https://huggingface.co/datasets/FreedomIntelligence/ApolloCorpus/tree/main/train)
        - Pretrain:
          - data item:
             - json_name: {data_source}_{language}_{data_type}.json
