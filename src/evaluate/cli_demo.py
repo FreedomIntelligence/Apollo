@@ -82,6 +82,6 @@ def main(args):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--model_name", type=str, default="/223040239/medbase/ckpts/qwen1_8b_v0_train/checkpoint-0-11680/tfmr")
+    parser.add_argument("--model_name", type=str, default="./ckpts/qwen1_8b_v0_train/checkpoint-0-11680/tfmr")
     args = parser.parse_args()
     main(args)

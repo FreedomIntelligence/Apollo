@@ -184,11 +184,11 @@ if __name__ == "__main__":
 
 '''
 
-accelerate launch /mntcephfs/data/med/xidong/Medbase/src/evaluate/eval_qwen.py \
---model_path=/mntcephfs/data/med/xidong/checkpoints/Qwen-1_8B \
---input_path=/mntcephfs/data/med/xidong/Medbase/data/Qwen-1.8B/test.json \
---output_path=/mntcephfs/data/med/xidong/Medbase/result/Qwen-1.8B/model_ans.jsonl \
---score_path=/mntcephfs/data/med/xidong/Medbase/result/Qwen-1.8B/score.json \
+accelerate launch ./src/evaluate/eval_qwen.py \
+--model_path=./checkpoints/Yi-6B \
+--input_path=./data/Yi-6B/test.json \
+--output_path=./result/Yi-6B/model_ans.jsonl \
+--score_path=./result/Yi-6B/score.json \
 --num_return=1 \
 --batch_size=8 > ${log_folder}/$log_name 2>&1 &
 
