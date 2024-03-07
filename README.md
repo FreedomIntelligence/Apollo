@@ -72,21 +72,21 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
               ]
               ```
       - SFT:
-       - json_name: {data_source}_{language}.json
-         - data_type: code, general, math, medicalExam, medicalPatient
-       - data item: list of qa pairs(list of string)
-         ```
-           [
-             [
-               "q1",
-               "a1",
-               "q2",
-               "a2",
-               ...
-             ],
-             ...
-           ]
-           ```
+          - json_name: {data_source}_{language}.json
+          - data_type: code, general, math, medicalExam, medicalPatient
+          - data item: list of qa pairs(list of string)
+            ```
+              [
+                [
+                  "q1",
+                  "a1",
+                  "q2",
+                  "a2",
+                  ...
+                ],
+                ...
+              ]
+              ```
 
 
    </details>
