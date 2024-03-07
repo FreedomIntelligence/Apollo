@@ -1,4 +1,4 @@
-# Multilingual Medicine: Model, Dataset, Benchmark, Code
+# Apollo, Multilingual Medicine: Model, Dataset, Benchmark, Code
 
 Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
 <center>
@@ -151,15 +151,6 @@ Please use the following citation if you intend to use our dataset for training 
    eprint={2403.03640},
    archivePrefix={arXiv},
    primaryClass={cs.CL}
-}
-
-@misc{Apollo,
-  title={Apollo, Multilingual Medicine: Model, Dataset, Benchmark, Code},
-  author={Xidong Wang, Junyin Chen, Nuo Chen, Yidong Wang, Zhiyi Zhang, Benyou Wang},
-  year = {2024},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/FreedomIntelligence/Apollo}},
 }
 ```
 
