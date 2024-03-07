@@ -198,3 +198,13 @@ Please use the following citation if you intend to use our dataset for training 
    primaryClass={cs.CL}
 }
 ```
+
+## Star History
+
+<a href="https://star-history.com/#FreedomIntelligence/Apollo&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=FreedomIntelligence/Apollo&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=FreedomIntelligence/Apollo&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=FreedomIntelligence/Apollo&type=Date" />
+  </picture>
+</a>
