@@ -37,6 +37,59 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
 
 - Dataset
   🤗 <a href="https://huggingface.co/datasets/FreedomIntelligence/ApolloCorpus" target="_blank">ApolloCorpus
+
+   <details><summary>Click to expand</summary>
+
+    ![Apollo](assets/dataset.png)
+
+    - [Zip File](https://huggingface.co/datasets/FreedomIntelligence/Medbase_data/blob/main/Medbase_data-datasets.zip)
+    - [Data category](https://huggingface.co/datasets/FreedomIntelligence/Medbase_data/tree/main/train)
+       - Pretrain:
+         - data item:
+            - json_name: {data_source}_{language}_{data_type}.json
+            - data_type: medicalBook, medicalGuideline, medicalPaper, medicalWeb(from online forum), medicalWiki
+            - language: en(English), zh(chinese), es(spanish), fr(french), hi(Hindi)
+            - data_type: qa(generated qa from text)
+            - data_type==text: list of string
+              ```
+              [
+                "string1",
+                "string2",
+                ...
+              ]
+              ```
+            - data_type==qa: list of qa pairs(list of string)
+              ```
+              [
+                [
+                  "q1",
+                  "a1",
+                  "q2",
+                  "a2",
+                  ...
+                ],
+                ...
+              ]
+              ```
+      - SFT:
+       - json_name: {data_source}_{language}.json
+         - data_type: code, general, math, medicalExam, medicalPatient
+       - data item: list of qa pairs(list of string)
+         ```
+           [
+             [
+               "q1",
+               "a1",
+               "q2",
+               "a2",
+               ...
+             ],
+             ...
+           ]
+           ```
+
+
+   </details>
    
 - Evaluation
   🤗 <a href="https://huggingface.co/datasets/FreedomIntelligence/XMedbench" target="_blank">XMedBench</a> 
