@@ -6,7 +6,6 @@ from transformers import AutoTokenizer
 from transformers import AutoModelForCausalLM
 import argparse
 from transformers import TextIteratorStreamer
-from transformers.generation.utils import GenerationConfig
 
 def load_model(model_name):
     tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True, padding_side='left', pad_token='<|extra_0|>', eos_token='<|endoftext|>')
@@ -41,7 +40,7 @@ def main(args):
     os_name = platform.system()
     clear_command = 'cls' if os_name == 'Windows' else 'clear'
     history = []
-    print("Medbase: Hello, I am a large model that answers medical and health questions. It is currently in the testing stage. Please follow your doctor's advice. How can I help you? Enter clear to clear the conversation history, stop to terminate the program")
+    print("Model: Hello, I am a large model that answers medical and health questions. It is currently in the testing stage. Please follow your doctor's advice. How can I help you? Enter clear to clear the conversation history, stop to terminate the program")
     while True:
         query = input("\nUser:")
         if query == "stop":
@@ -49,10 +48,9 @@ def main(args):
         if query == "clear":
             history = []
             os.system(clear_command)
-            print("Medbase: Hello, I am a large model that answers medical and health questions. It is currently in the testing stage. Please follow your doctor's advice. How can I help you? Enter clear to clear the conversation history, stop to terminate the program")
             continue
         
-        print(f"Medbase:", end="", flush=True)
+        print(f"Model:", end="", flush=True)
 
 
         prompt = generate_prompt(query, history)
@@ -82,6 +80,6 @@ def main(args):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--model_name", type=str, default="./ckpts/qwen1_8b_v0_train/checkpoint-0-11680/tfmr")
+    parser.add_argument("--model_name", type=str, default="./ckpts/your/path/tfmr")
     args = parser.parse_args()
     main(args)

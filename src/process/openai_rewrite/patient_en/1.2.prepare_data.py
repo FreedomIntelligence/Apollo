@@ -20,12 +20,12 @@ def generate_query(data):
 
 def Prepare_data(args):
     data = []
-    # 读取上传的JSONl文件
+    # Read the uploaded JSONl file
     with jsonlines.open(args.input_path, "r") as reader:
         data = list(reader)
 
     print(f"len:{len(data)}")
-    # 根据要求转换
+    # Convert as required
     jsonl_data = []
 
     for id, item in enumerate(data):
@@ -39,7 +39,7 @@ def Prepare_data(args):
             }
         )
 
-    # 将转换后的数据保存为JSONL文件
+    # Save the converted data as a JSONL file
     with open(args.output_path, "w", encoding="utf-8") as file:
         for entry in jsonl_data:
             file.write(json.dumps(entry, ensure_ascii=False) + "\n")

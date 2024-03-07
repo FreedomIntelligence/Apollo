@@ -62,15 +62,27 @@ def get_response(batch_input_ids, batch_output_ids, tokenizer, num_return):
     return responses_list
 
 def extract_and_choose_answer(pattern, model_answer):
+    if '\n' in model_answer:
+        model_answer_split = model_answer.split('\n')
+        for model_answer_i in model_answer_split:
+            if len(model_answer_i):
+                model_answer = model_answer_i
+                break
     matches = re.findall(pattern, model_answer)
     option_count = {}
     for match in matches:
         option_count[match.upper()] = option_count.get(match.upper(), 0) + 1
 
     if not option_count:
+        # else use loose pattern
         loose_pattern = r'[A-F]'
         if pattern == loose_pattern:
-            return None
+            if model_answer == 'Yes.':
+                return 'A'
+            elif model_answer == 'No.':
+                return 'B'
+            else:
+                return None
         else:
             return extract_and_choose_answer(loose_pattern, model_answer) 
         
@@ -80,13 +92,14 @@ def extract_and_choose_answer(pattern, model_answer):
     
     
     
-def generate_score(result_path, score_path):
+def generate_score(result_path, score_path, wrong_item_path):
     with open(result_path, 'r', encoding='utf-8') as jsonl_file:
         json_objects = [json.loads(line.strip()) for line in jsonl_file]
         
     all = defaultdict(int)
     right = defaultdict(int)
     accuracy_dict = defaultdict(int)
+    wrong_item = []
     
     print(f'****Total:{len(json_objects)}****')
     debug = True
@@ -96,6 +109,7 @@ def generate_score(result_path, score_path):
             all[source] += 1  
             pattern = r'[（\(]([A-Fa-f])[）\)]'
             extract_answer = extract_and_choose_answer(pattern, answer)
+            item['extract_answer'] = extract_answer
             if debug:
                 debug = False
                 print(f'extract_answer:{extract_answer}')
@@ -103,6 +117,8 @@ def generate_score(result_path, score_path):
                 print(f'right_answer:{right_answer}')
             if item['answer'] == extract_answer:
                 right[source] += 1
+            else:
+                wrong_item.append(item)
                 
             
     print(f'all:{all}')
@@ -116,6 +132,11 @@ def generate_score(result_path, score_path):
     
     print(f'***********score_result save in {score_path}*************')
     
+    with open(wrong_item_path, "w", encoding="utf8") as f:
+        json.dump(wrong_item, f, indent=4, ensure_ascii=False)
+    
+    print(f'***********wrong_item save in {wrong_item_path}*************')
+    
 
 def generate_response(args):
     accelerator = Accelerator()
@@ -123,9 +144,10 @@ def generate_response(args):
     model_path = args.model_path
     accelerator.print(f'****************model_path:{model_path}******************')
     
-    tokenizer = AutoTokenizer.from_pretrained(model_path, use_fast=False, padding_side='left')
-    model = AutoModelForCausalLM.from_pretrained(model_path, trust_remote_code=True, ignore_mismatched_sizes=True).half()
-    gen_kwargs = {'num_return_sequences': args.num_return, 'max_new_tokens': 16, 'min_new_tokens':2, 'do_sample':False}
+    tokenizer = AutoTokenizer.from_pretrained(model_path, use_fast=False, padding_side='left', eos_token='<|endoftext|>')
+    model = AutoModelForCausalLM.from_pretrained(model_path, trust_remote_code=True)
+    model = model.half().cuda()
+    gen_kwargs = {'num_return_sequences': args.num_return, 'max_new_tokens': 128, 'min_new_tokens':2, 'do_sample':False}
     
     
     dataset = TestDataset(args.input_path, tokenizer)
@@ -176,20 +198,11 @@ if __name__ == "__main__":
     parser.add_argument("--input_path", type=str, help="path to the input data")
     parser.add_argument("--output_path", type=str, help="path to the output data")
     parser.add_argument("--score_path", type=str, help="path to the score")
+    parser.add_argument("--wrong_item_path", type=str, help="path to the wrong_item")
     parser.add_argument("--num_return", type=int, help="number of return sequences")
     parser.add_argument("--batch_size", type=int, help="batch size")
     args = parser.parse_args()
     generate_response(args)
-    generate_score(args.output_path, args.score_path)
+    generate_score(args.output_path, args.score_path, args.wrong_item_path)
 
-'''
 
-accelerate launch ./src/evaluate/eval_qwen.py \
---model_path=./checkpoints/Yi-6B \
---input_path=./data/Yi-6B/test.json \
---output_path=./result/Yi-6B/model_ans.jsonl \
---score_path=./result/Yi-6B/score.json \
---num_return=1 \
---batch_size=8 > ${log_folder}/$log_name 2>&1 &
-
-'''

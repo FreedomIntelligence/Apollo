@@ -5,7 +5,7 @@ import re
 def extract_dialogues_from_model_answer(model_answer):
     dialogues = []
     try:
-        # 使用正则表达式提取病人和医生的对话
+        # Use regular expressions to extract conversations between patients and doctors
         patient_dialogues = re.findall(
             r"<Patient>(.*?)</Patient>", model_answer, re.DOTALL
         )
@@ -13,7 +13,7 @@ def extract_dialogues_from_model_answer(model_answer):
             r"<Doctor>(.*?)</Doctor>", model_answer, re.DOTALL
         )
 
-        # 将对话组合成一个list
+        # Combine conversations into a list
         dialogues = list(zip(patient_dialogues, doctor_dialogues))
         final_list = []
         for item in dialogues:
@@ -30,15 +30,15 @@ def process_jsonl_file(input_file, output_file):
 
     try:
         with open(input_file, "r", encoding="utf-8") as file:
-            # 逐行读取JSONL文件
+            #Read JSONL file line by line
             for line in file:
                 json_data = json.loads(line)
 
-                # 检查JSON中是否包含"model_answer"字段
+                # Check whether the JSON contains the "model_answer" field
                 if "model_answer" in json_data:
                     model_answer = json_data["model_answer"]
 
-                    # 提取对话并添加到结果列表
+                    # Extract conversations and add to result list
                     dialogues = extract_dialogues_from_model_answer(model_answer)
                     if not len(dialogues):
                         continue

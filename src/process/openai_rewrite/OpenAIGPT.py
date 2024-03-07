@@ -35,7 +35,7 @@ class OpenAIGPT:
 if __name__ == "__main__":
     # test code
     igpt = OpenAIGPT(keys_path="gpt4key.txt", model_name="gpt-4")
-    string = "你好"
+    string = "Hello"
     print(string)
     answer = igpt(string)
     print(answer)

@@ -1,4 +1,4 @@
-# Apollo, Multilingual Medicine: Model, Dataset, Benchmark, Code
+# Multilingual Medicine: Model, Dataset, Benchmark, Code
 
 Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
 <center>
@@ -25,12 +25,12 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
 ## Results
    🤗 <a href="https://huggingface.co/FreedomIntelligence/Apollo-0.5B" target="_blank">Apollo-0.5B</a> • 🤗 <a href="https://huggingface.co/FreedomIntelligence/Apollo-1.8B" target="_blank">Apollo-1.8B</a> • 🤗 <a href="https://huggingface.co/FreedomIntelligence/Apollo-2B" target="_blank">Apollo-2B</a>  • 🤗 <a href="https://huggingface.co/FreedomIntelligence/Apollo-6B" target="_blank">Apollo-6B</a> • 🤗 <a href="https://huggingface.co/FreedomIntelligence/Apollo-7B" target="_blank">Apollo-7B</a> 
    
-   
+   <details><summary>Click to expand</summary>
    
    ![Apollo](assets/result.png)
       
    
-   
+   </details>
   
 
 
@@ -43,8 +43,8 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
 
     ![Apollo](assets/dataset.png)
 
-    - [Zip File](https://huggingface.co/datasets/FreedomIntelligence/ApolloCorpus/blob/main/ApolloCorpus.zip)
-    - [Data category](https://huggingface.co/datasets/FreedomIntelligence/ApolloCorpus/tree/main/train)
+    - [Zip File](https://huggingface.co/datasets/FreedomIntelligence/Medbase_data/blob/main/Medbase_data-datasets.zip)
+    - [Data category](https://huggingface.co/datasets/FreedomIntelligence/Medbase_data/tree/main/train)
        - Pretrain:
          - data item:
             - json_name: {data_source}_{language}_{data_type}.json
@@ -126,17 +126,37 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
    
 ## Results reproduction
    <details><summary>Click to expand</summary>
-
-To facilitate training and evaluation, a series of bash scripts are provided below. These scripts are exemplified with the Qwen model and include steps for data download, processing, training, and evaluation. If you are working with a different model, adjustments to the content of these bash files may be necessary.
-
-```python
-bash 0.download_data.sh
-bash 1.data_process_test&dev.sh
-bash 2.data_process_train.sh
-bash 3.single_node_train_qwen.sh
-bash 4.eval.sh
-```
-After executing these commands, the score will be saved at `score_path`.
+   
+   We take Gemma-2b as example
+   1. Download Dataset for project:
+    ```bash
+    bash 0.download_data.sh
+    ```
+   2. Prepare test and dev for specific model:
+    We create test data for specific model with their special token
+    ```bash
+    bash 1.data_process_test&dev.sh
+    ```
+   3. Prepare train data for specific model (Create tokenizered data in advance):
+    - You can adjust data Training order and Training Epoch in this step
+    ```bash
+    bash 2.data_process_train.sh
+    ```
+   4. Train the model
+    - If you want to train in Multi Nodes please refer to ./scripts/multi_node_train_*.sh
+    ```bash
+    bash 3.single_node_train_qwen.sh
+    ```
+   5. Evaluate your model
+    - Generate score for benchmark
+      ```bash
+      bash 4.eval.sh
+      ```
+    - Play with your ckpts in bash
+      ```bash
+      python ./src/evaluate/cli_demo.py --model_name='./ckpts/your/path/tfmr'
+      ```
+  
    
    </details>
 
@@ -160,16 +180,3 @@ Please use the following citation if you intend to use our dataset for training 
    primaryClass={cs.CL}
 }
 ```
-
-## Contribution and Feedback
-If you encounter any issues or have suggestions, requests, or want to report a bug, please feel free to open a GitHub issue. We welcome PRs!
-
-## Star History
-
-<a href="https://star-history.com/#FreedomIntelligence/Apollo&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=FreedomIntelligence/Apollo&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=FreedomIntelligence/Apollo&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=FreedomIntelligence/Apollo&type=Date" />
-  </picture>
-</a>

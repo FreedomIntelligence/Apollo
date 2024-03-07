@@ -1,0 +1,1928 @@
+[
+    {
+        "question": "Parmi les propositions suivantes, indiquer celle qui est exacte. Dans les conditions physiologiques, le pH le plus élevé est mesuré dans:",
+        "options": "(A) Le suc gastrique.\n(B) La bile vésiculaire.\n(C) Le suc pancréatique.\n(D) La salive.\n(E) Les sécrétions intestinales.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, quelle est celle qui est exacte? Lorsqu'on ajoute un acide fort à une solution tampon:",
+        "options": "(A) Le pH reste constant.\n(B) Le pH diminue légèrement.\n(C) Le constituant basique du tampon reste constant.\n(D) Le constituant acide du tampon réagit.\n(E) Le rapport acide/base reste inchangé.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, concernant la vancomycine, laquelle est exacte?",
+        "options": "(A) C'est un antibiotique à large spectre.\n(B) Elle possède une demi-vie supérieure à 50 heures.\n(C) Elle est active sur le staphylocoque doré méthicilline-résistant.\n(D) Elle est hématotoxique.\n(E) Elle agit sur la synthèse protéique par une fixation ribosomale.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Une des molécules suivantes issues de l'activation du complément, possède une activité chimiotactique. Laquelle?",
+        "options": "(A) C3b.\n(B) C3d.\n(C) C1.\n(D) Bb.\n(E) C5a.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les effets indésirables suivants, un seul ne peut être causé par les inhibiteurs de l'enzyme de conversion :",
+        "options": "(A) Toux.\n(B) Hypokaliémie.\n(C) Dysgueusie.\n(D) Neutropénie.\n(E) Oedème de Quincke.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Indiquer quel est le mode de contamination de l'homme par Fasciola hepatica :",
+        "options": "(A) Ingestion d'un mollusque contaminé.\n(B) Ingestion d'oeuf dans de l'eau de boisson.\n(C) Pénétration de larve par voie transcutanée.\n(D) Ingestion d'un végétal supportant les formes enkystées.\n(E) Piqûre d'un insecte hématophage.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les 5 mesures suivantes, quelle est celle qui relève de la prévention primaire?",
+        "options": "(A) Vaccination antitétanique.\n(B) Dépistage du cancer colorectal par l'Hémoccult (recherche d'Hémoglobine dans les selles).\n(C) Prévention des récidives d'accident vasculaire cérébral par les anti-agrégants.\n(D) Rééducation des coronariens.\n(E) Réinsertion sociale des handicapés.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, quelle est la cible d'action de la flucytosine (ANCOTIL®) sur la cellule fongique:",
+        "options": "(A) La paroi.\n(B) La membrane plasmique.\n(C) Le noyau.\n(D) La capsule.\n(E) Le réticulum endoplasmique.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant l'hypothèse alternative d'un test statistique, laquelle est fausse? L'hypothèse alternative:",
+        "options": "(A) Est l'hypothèse qui doit être acceptée lorsque l'hypothèse nulle est rejetée.\n(B) Indique si le test est unilatéral ou bilatéral.\n(C) Est en général une hypothèse multiple.\n(D) Est habituellement notée H1.\n(E) Est rejetée si la différence est significative.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant les modifications des constantes cinétiques lors de l'inhibition non compétitive d'une enzyme, indiquer la réponse exacte.",
+        "options": "(A) Km et Vm diminuent.\n(B) Km diminue et Vm reste inchangé.\n(C) Km reste inchangé et Vm diminue.\n(D) Km augmente et Vm diminue.\n(E) Km augmente et Vm reste inchangé.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant le sulfaméthoxazole, une seule est fausse. Laquelle?",
+        "options": "(A) Il inhibe la synthèse d'acide folique.\n(B) Il est associé au triméthoprime dans le BACTRIM.\n(C) Il est très peu métabolisé dans l'organisme.\n(D) Il est contre-indiqué chez le nouveau-né.\n(E) Il est contre-indiqué en association avec le méthotrexate.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Comment évalue-t-on l'efficacité d'une campagne de dépistage du cancer du sein?",
+        "options": "(A) Au nombre de nouveaux cas diagnostiqués.\n(B) Au pourcentage de malades ayant un traitement à visée curative.\n(C) A la durée de l'intervalle libre entre diagnostic et traitement.\n(D) A la durée de survie.\n(E) A la diminution de la prévalence du cancer du sein.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Un examen paraclinique a été testé chez 200 malades et 400 témoins. L'examen est positif chez 150 malades et 60 témoins.Quelle est la spécificité?",
+        "options": "(A) 0,71.\n(B) 0,75.\n(C) 0,85.\n(D) 0,87.\n(E) 0,95.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Quelle est la proposition exacte concernant le paludisme à Plasmodium falciparum?",
+        "options": "(A) Il n'est présent qu'en Afrique sub-saharienne.\n(B) Les rechutes sont provoquées par les hypnozoites.\n(C) Il peut être mortel.\n(D) Il se déclare habituellement 3 ans après le retour de zone d'endémie.\n(E) Il se traite par le fluconazole.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant la chromatographie d'exclusion-diffusion, indiquer celle qui est exacte ?",
+        "options": "(A) La phase stationnaire peut être constituée d'un gel de silice.\n(B) Les ions de petite taille sont élués avec le volume mort.\n(C) La capacité de gonflement d'un gel dépend de son degré de réticulation.\n(D) L'utilisation d'un gel mou (Séphadex) permet de travailler à un débit de phase mobile élevé.\n(E) Les aérogels gonflent au contact de la phase mobile.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant les virus de la grippe humaine, laquelle est fausse?",
+        "options": "(A) Ce sont des virus à ARN.\n(B) Ils peuvent être responsables d'épidémies.\n(C) Ce sont des virus nus.\n(D) Ce sont des virus à génome fragmenté.\n(E) Ils sont cultivables sur oeufs embryonnés.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi ces effets indésirables, quel est celui qui ne correspond pas au médicament proposé?",
+        "options": "(A) Hépatite et alpha-méthyldopa.\n(B) Toux et énalapril.\n(C) Oedèmes des membres inférieurs et propranolol.\n(D) Hypokaliémie et furosémide.\n(E) Oedèmes de Quincke et telmisartan.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Quelle est approximativement la masse d'éthanol pur contenue dans 1 litre de vin titrant 12 degrés alcooliques?",
+        "options": "(A) 60 g.\n(B) 72g.\n(C) 96 g.\n(D) 120 g.\n(E) 150 g.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, laquelle s'applique aux cytopénies \"immuno-allergiques\" d'origine médicamenteuse?",
+        "options": "(A) Elles sont dues à des anticorps de classe IgE.\n(B) Elles font intervenir des lymphocytes T cytotoxiques.\n(C) Elles sont la conséquence d'une destruction accélérée des éléments cellulaires.\n(D) Elles concernent seulement les cellules hématopoïétiques nucléées.\n(E) Elles sont associées à des anomalies du système du complément.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les composés suivants retrouvés dans le métabolisme de l'éthanol, lequel est considéré. comme étant le métabolite toxique?",
+        "options": "(A) Éthanol.\n(B) Acétaldéhyde.\n(C) Acide acétique.\n(D) Ester éthylique.\n(E) Acide lactique.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, donner la réponse exacte. Un régime isocratique en chromatographie liquide correspond à :",
+        "options": "(A) Une composition variable de la phase mobile.\n(B) Un débit variable de phase mobile.\n(C) Une composition constante de la phase mobile.\n(D) Une séparation à température constante.\n(E) Une séparation à une pression> 350 bars.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les médicaments suivants, lequel peut-on utiliser pour traiter une amibiase intestinale aiguë ?",
+        "options": "(A) Chloroquine (NIVAQUINE®).\n(B) Tinidazole (FASIGYNE®).\n(C) Isoconazole (FAZOL®).\n(D) Chlorhydrate de quinine (QUINIMAX®).\n(E) Halofantrine (HALFAN®).",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant les méningites à Listeria, laquelle est exacte?",
+        "options": "(A) Elles surviennent uniquement chez la femme enceinte.\n(B) Elles s'accompagnent toujours d'un purpura.\n(C) Le liquide céphalorachidien présente habituellement une hyperleucocytose avec au moins 80 % de polynucléaires.\n(D) L'amoxicilline est souvent utilisée pour leur traitement.\n(E) Il existe une prophylaxie vaccinale de ces infections.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes l'une est fausse, indiquer laquelle? Le paracétamol peut être éliminé sous la forme suivante:",
+        "options": "(A) Dérivé O-glucuronide.\n(B) Dérivé O-sulfate.\n(C) Acide mercapturique.\n(D) Nitrate.\n(E) Paracétamol inchangé.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant l'albumine, une seule est fausse, laquelle?",
+        "options": "(A) C'est la protéine plasmatique qualitativement plus importante.\n(B) Elle est synthétisée dans le foie.\n(C) C'est un marqueur de la cytolyse hépatique.\n(D) Elle joue un rôle dans la pression oncotique.\n(E) Elle transporte de nombreuses substances endogènes et exogènes.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant l'anguillullose, une seule est fausse, laquelle?",
+        "options": "(A) Elle persiste pendant de nombreuses années chez l'être humain.\n(B) Elle se contracte par des larves rhabditoïdes.\n(C) Elle est dûe à Strongyloides stercoralis.\n(D) Elle est accompagnée d'une hyperéosinophilie sanguine fluctuante.\n(E) Elle se traite par l'ivermectine (STROMECTOL®).",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant les critères de validité d'une méthode d'analyse, quelle est-celle qui est exacte?",
+        "options": "(A) L'exactitude exprime les erreurs aléatoires.\n(B) La répétabilité s'apprécie à partir de mesures réalisées à des jours différents.\n(C) La pente de la droite d'étalonnage permet d'apprécier la spécificité de la méthode.\n(D) La relation entre le signal et la concentration peut-être établie par la méthode des ajouts dosés..\n(E) La précision exprime les erreurs systématiques.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, laquelle est exacte? Les 2 nucléides du carbone C (A = 12, Z = 6) et C (A = 14, Z = 6) sont:",
+        "options": "(A) 2 isobares.\n(B) 2 isomères.\n(C) 2 isotopes.\n(D) 2 isallobares.\n(E) 2 isotones.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les affirmations suivantes concernant la pristinamycine, une seule est fausse. Laquelle?",
+        "options": "(A) Elle n'est pas habituellement utilisée dans le traitement des infections à bacille pyocyanique.\n(B) Elle agit par perturbation de la synthèse des protéines bactériennes.\n(C) Une souche bactérienne résistante à l'érythromycine peut rester sensible à la pristinamycine.\n(D) Elle est habituellement active à l'égard de Streptococcus pyogenes.\n(E) Elle n'est administrée que par voie parentérale.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes relatives au TNFalpha, laquelle est inexacte?",
+        "options": "(A) Il est produit physiologiquement en abondance par les cellules épithéliales de la muqueuse intestinale.\n(B) C'est une cytokine pro-inflammatoire.\n(C) Il stimule la production d'IL-6.\n(D) C'est une cytokine impliquée dans la physiopathologie de la polyarthrite rhumatoide.\n(E) Il est la cible d'un anticorps monoclonal utilisé en thérapeutique.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant les phénomènes pouvant entraîner une inhibition de la fluorescence. Laquelle est fausse?",
+        "options": "(A) La variation du pH peut modifier l'intensité de la fluorescence.\n(B) L'oxygène dissous inhibe la fluorescence.\n(C) Si la température augmente, l'intensité de la fluorescence augmente.\n(D) Le solvant peut inhiber la fluorescence.\n(E) La présence d'impuretés dans la solution peut provoquer une inhibition de la fluorescence.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les bactéries suivantes, quelle est celle fréquemment responsable de cholécystite aiguë?",
+        "options": "(A) Pseudomonas aeruginosa.\n(B) Escherichia Coli.\n(C) Shigella.\n(D) Neisseria meningitidis.\n(E) Vibrio cholerae.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant l'éthanol, une seule est fausse, laquelle?",
+        "options": "(A) Il est métabolisé par réduction au niveau de l'hépatocyte.\n(B) Il est métabolisé par le système des cytochromes P450.\n(C) Il est métabolisé par la catalase.\n(D) Son métabolisme est producteur de radicaux libres.\n(E) Il peut subir une estérification par les acides gras non estérifiés.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, cocher celle qui est exacte. La vaccination contre l'hépatite B n'est ni recommandée, ni obligatoire chez:",
+        "options": "(A) Les nourrissons.\n(B) Les personnels de santé.\n(C) Les adolescents.\n(D) Les adultes.\n(E) L'entourage ou le partenaire d'un sujet infecté par le virus de l'hépatite B ou porteur chronique de l'antigène HBs.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant les immunodosages, laquelle est fausse? Les immunodosages :",
+        "options": "(A) Utilisent des marqueurs fluorescents.\n(B) Sont des méthodes très spécifiques.\n(C) Sont des méthodes de compétition entre un antigène libre et un antigène marqué vis-à-vis d'un site anticorps.\n(D) \"Sandwich\" mettent en oeuvre deux sites anticorps.\n(E) Dits \"immunométriques\" ne s'appliquent qu'à des molécules de masse moléculaire supérieure à 5.000 daltons.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, quelle est celle qui s'applique à Clostridium perfringens?",
+        "options": "(A) C'est une bactérie qui peut former des spores.\n(B) C'est une bactérie aéro-anaérobie facultative.\n(C) Il n'est jamais responsable de toxi-infections alimentaires.\n(D) C'est un agent fréquent d'infections urinaires.\n(E) Il est toujours sensible aux aminosides.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Une femme de groupe sanguin 0 se marie avec un homme de groupe A. La mère de cet homme appartient au groupe 0 . Quelle est la probabilité pour que leurs enfants soient du groupe A ?",
+        "options": "(A) 0%.\n(B) 25 %.\n(C) 50 %.\n(D) 75%.\n(E) 100%.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, indiquer celle qui est exacte. La pression intraventriculaire gauche télésystolique est:",
+        "options": "(A) La pression systolique maximale.\n(B) La pression à l'ouverture de la valve aortique.\n(C) La pression au début de la diastole.\n(D) La pression à la fermeture de la valve mitrale.\n(E) La pression à l'ouverture de la valve mitrale.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les coenzymes suivants, indiquer celui qui est nécessaire au fonctionnement des transaminases: ALAT (alanine aminotransféras) et ASAT (aspartate aminotransférase) :",
+        "options": "(A) Acide tétrahydrofolique.\n(B) FAD.\n(C) Thiamine pyrophosphate.\n(D) Phosphate de pyridoxal.\n(E) NAD.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Quelle est, parmi les propositions suivantes, celle qui ne correspond à aucun des mécanismes d'action décrits pour les médicaments antiépileptiques?",
+        "options": "(A) Antagoniste des récepteurs NMDA du glutamate.\n(B) Effet allostérique vis-à-vis des récepteurs GABA-A.\n(C) Inhibition de la glutamate décarboxylase.\n(D) Inactivation des canaux sodiques voltage dépendant.\n(E) Inhibition de la GABA transaminase.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant l'amphotéricine B, une seule est fausse, laquelle?",
+        "options": "(A) C'est un antifongique d'origine naturelle.\n(B) Elle se lie de façon très étroite aux membranes cellulaires.\n(C) Sa résorption digestive est très faible.\n(D) Elle peut entraîner une hyperkaliémie.\n(E) Elle est néphrotoxique.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Un patient présente le bilan lipidique suivant: Se Cholestérol total: 7,5 mmol/L Se Triglycérides: 2,2 mmol/L Se Cholestérol HDL : 1,0 mmol/L Donner la valeur du Se Cholestérol LDL (selon la formule de Friedewald ) :",
+        "options": "(A) 6,0 mmol/L.\n(B) 2,8 mmol/L.\n(C) 3,5 mmol/L.\n(D) 5,5 mmol/L.\n(E) 4,4 mmol/L.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "La diurèse osmotique alcaline est mise en oeuvre dans les intoxications aiguës par l'un des médicaments psychotropes suivants. Lequel?",
+        "options": "(A) Antidépresseurs tricycliques.\n(B) Benzodiazépines.\n(C) Barbituriques de type phénobarbital.\n(D) Carbamates.\n(E) Phénothiazines.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, laquelle est inexacte? Le canal collecteur du tubule rénal est:",
+        "options": "(A) Le site majeur d'acidification de l'urine.\n(B) Le site d'ajustement de l'élimination du calcium.\n(C) Perméable à l'eau, en présence d'hormone antidiurétique.\n(D) Soumis à un gradient de pression osmotique interstitielle.\n(E) Un site d'ajustement de l'élimination du potassium.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les paramètres suivants, quel est celui qui permet de différencier une acidose respiratoire chronique d'une acidose respiratoire aiguë?",
+        "options": "(A) SgA pH.\n(B) SgA pCO2.\n(C) SgA Bicarbonate.\n(D) SgA pO2.\n(E) Sg Saturation en oxygène.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "En chromatographie en phase liquide, l'amélioration de la résolution entre 2 composés dépend des paramètres suivants sauf un. Lequel?",
+        "options": "(A) Le nombre de plateaux théoriques.\n(B) Le facteur de capacité du composé le plus retenu.\n(C) Le facteur de sélectivité.\n(D) La vitesse de déroulement du papier.\n(E) La longueur de la colonne.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les causes de décès des femmes adultes vivant en France, quelle est la cause la plus fréquente?",
+        "options": "(A) Maladies cardiovasculaires.\n(B) Morts violentes.\n(C) Tumeurs.\n(D) Maladies respiratoires.\n(E) Maladies digestives.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant la doxycycline, une seule est exacte; laquelle?",
+        "options": "(A) Est un antibiotique bactéricide.\n(B) Possède un spectre antibactérien limité aux bactéries à Gram positif.\n(C) Possède une bonne diffusion intracellulaire.\n(D) Est utilisé dans le traitement des méningites à Haemophilus influenzae.\n(E) Est utilisée chez l'enfant de moins de 8 ans.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est exacte, Laquelle? Un complexe zinc-EDTA est dosé par spectrophotométrie d'absorption atomique. Sous quelle forme?",
+        "options": "(A) Atome de zinc.\n(B) Ion zinc.\n(C) Radical.\n(D) Hydroxyde de zinc.\n(E) Oxyde de zinc.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les unités de radioactivité suivantes, indiquer celle qui est utilisée pour exprimer l'équivalent de dose (H) :",
+        "options": "(A) Becquerel.\n(B) Curie.\n(C) Gray.\n(D) Sievert.\n(E) Rad.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, laquelle est exacte? La médullosurrénale:",
+        "options": "(A) N'est pas innervée.\n(B) Est seulement innervée par des fibres cholinergiques.\n(C) Est seulement innervée par des fibres adrénergiques.\n(D) Est innervée par des fibres adrénergiques et cholinergiques.\n(E) Est sous la dépendance de la corticosurrénale.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Concernant les caractéristiques pharmacocinétiques de la Doxycycline (VIBRAMYCINE®), quelle est la proposition fausse?",
+        "options": "(A) Bonne biodisponibilité par voie orale.\n(B) Elimination essentiellement rénale sous forme inchangée.\n(C) Bonne diffusion intracellulaire.\n(D) Bonne diffusion au niveau osseux.\n(E) Faible passage de la barrière hémato-encéphalique.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est exacte, laquelle? La systole ventriculaire gauche",
+        "options": "(A) Commence à l'ouverture de la valve tricuspide.\n(B) S'achève à l'ouverture des valves sigmoïdes.\n(C) Commence à la fermeture de la valve mitrale.\n(D) Commence à la fermeture des valves sigmoïdes.\n(E) S'achève à la fermeture de la valve mitrale.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, cocher celle qui est exacte. Un effet bathochrome en spectrophotométrie UV/visible est:",
+        "options": "(A) Une augmentation de l'intensité d'absorption à la longueur d'onde maximale d'absorption.\n(B) Une émission de lumière diffuse.\n(C) Un déplacement du maximum d'absorption de la molécule vers de plus grandes longueurs d'onde.\n(D) Une diffraction de la lumière.\n(E) Une absorption de lumière par le solvant.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant la descendance d'un couple dont le mari est atteint d'une maladie récessive liée au chromosome X et la femme non conductrice pour cette anomalie, laquelle est exacte?",
+        "options": "(A) 50% des garçons sont sains.\n(B) 50% des filles sont hétérozygotes transmettrices.\n(C) Tous les enfants transmettent l'affection.\n(D) 50% des garçons transmettent l'affection.\n(E) Aucune de ces réponses n'est exacte.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, indiquer celle qui est exacte. Le pH d'une solution de phénobarbital sodique, sel monosodique de l'acide 5-éthyl, 5-phénylbarbiturique (pK1= 7,4 et pK2 = 12,2), de concentration = 0,1 MIL est de:",
+        "options": "(A) 4,2.\n(B) 6,1.\n(C) 7.\n(D) 9,8.\n(E) 12,6.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant la ciclosporine laquelle est fausse?",
+        "options": "(A) C'est un polypeptide cyclique.\n(B) Elle a la même cible pharmacologique que le sirolimus.\n(C) Elle est administrée à des doses 10-15 fois plus fortes que celles utilisées pour le tacrolimus.\n(D) Elle présente une forte néphrotoxicité.\n(E) Elle a un suivi thérapeutique principalement basé sur la détermination de ses concentrations sangumes.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les produits suivants, indiquer celui qui peut être classé comme substance psychodysleptique:",
+        "options": "(A) Amphétamine.\n(B) Cannabis.\n(C) Cocaïne.\n(D) Crack.\n(E) Opium.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est exacte, laquelle? La caractérisation de Cryptococcus neoformans dans un LCR est réalisée par la présence à l'examen direct",
+        "options": "(A) De blastospores.\n(B) D'une capsule polysaccharidique.\n(C) D'arthrospores.\n(D) De vrai mycélium.\n(E) De pseudomycelium.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, laquelle est exacte? Le D(+) glycéraldéhyde",
+        "options": "(A) Est de configuration absolue S.\n(B) Est de configuration absolue R.\n(C) Possède un groupement méthyle.\n(D) Possède quatre carbones.\n(E) Est lévogyre.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi ces propositions concernant la sérotonine, une seule est fausse, laquelle?",
+        "options": "(A) C'est une amine biogène endogène.\n(B) Elle franchit la barrière hémato-encéphalique.\n(C) Elle est synthétisée à partir du tryptophane alimentaire.\n(D) Elle n'est pas synthétisée dans les plaquettes.\n(E) Son métabolite principal est constitué par le 5 HlAA.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, cocher celle qui est exacte. Dans le but de comparer la précision de 2 méthodes de dosage pour lesquelles on obtient comme variance 2,312 et 3,468 , on utilise le test F de Fisher-Snedecor. La valeur calculée de F sur ces données est égale à :",
+        "options": "(A) 1,500.\n(B) 1,156.\n(C) 0,875.\n(D) 1,225.\n(E) 3,000.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant Vibrio cholerae, quelle est celle qui est fausse?",
+        "options": "(A) C'est une bactérie à Gram négatif en virgule.\n(B) Sa transmission est féco-orale.\n(C) Elle produit une entérotoxine.\n(D) C'est une bactérie aérobie stricte.\n(E) Il existe une prophylaxie vaccinale des infections qu'elle provoque.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, donner celle qui est inexactee. l'intoxication oxycarbonée grave peut entraîner:",
+        "options": "(A) Des troubles de conscience.\n(B) Une atteinte coronarienne aiguë.\n(C) Un Oedème pulmonaire.\n(D) Une hémolyse.\n(E) Une rhabdomyolyse.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les solvants chlorés suivants, lequel présente un pouvoir cancérogène nettement démontré chez l'homme?",
+        "options": "(A) Le dichlorométhane.\n(B) Le chlorure de vinyle.\n(C) Le tétrachlorure de carbone.\n(D) Le trichloréthylène.\n(E) Le chloroforme.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant l'hypothèse nulle d'un test statistique, laquelle est fausse? L'hypothèse nulle:",
+        "options": "(A) Est l'hypothèse qui est testée.\n(B) Est l'hypothèse qui spécifie la valeur du paramètre testé.\n(C) Est en général une hypothèse simple.\n(D) Est habituellement notée Ho.\n(E) Est prouvée si la différence est significative.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, indiquer celle qui est vraie. La sécrétion d'aldostérone résulte d'une:",
+        "options": "(A) Diminution du débit de NaCl dans le tubule proximal.\n(B) Augmentation de pression dans l'artériole afférente glomérulaire.\n(C) Élévation de pression dans l'artériole efférente glomérulaire.\n(D) Diminution de pression dans l'artériole afférente glomérulaire.\n(E) Stimulation nerveuse parasympathique.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Lequel des paramètres suivants ne varie pas après stimulation des barorécepteurs?",
+        "options": "(A) La pression capillaire.\n(B) La pression veineuse périphérique.\n(C) Le tonus artériolaire sympathique.\n(D) Le débit cardiaque.\n(E) Le débit coronaire.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, laquelle est exacte? Lors du dosage du sodium et du potassium par photométrie de flamme, l'atomisation de l'échantillon se fait dans:",
+        "options": "(A) Une flamme air/butane.\n(B) Une flamme air/acétylène.\n(C) Un four en graphite.\n(D) Une flamme protoxyde d'azote/acétylène.\n(E) Une source gaz/plasma.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Lequel de ces antimalariques n'est jamais utilisé en chimioprophylaxie?",
+        "options": "(A) Méfloquine.\n(B) Chloroquine.\n(C) Proguanil.\n(D) Halofantrine.\n(E) Doxycycline.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Concernant les formes à libération prolongée de la voie orale, indiquer, parmi les propositions suivantes, laquelle est exacte:",
+        "options": "(A) Les principes actifs sont toujours libérés par dissolution après désagrégation de la forme galénique.\n(B) L'acétophtalate de cellulose est un polymère de pelliculage gastrosoluble.\n(C) Les comprimés à libération prolongée sont toujours pelliculés.\n(D) La pompe osmotique élémentaire constitue un système thérapeutique à libération prolongée.\n(E) Les amidons pré gélatinisés retardent la libération des principes actifs.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Après l'administration successive d'un inhibiteur de l'enzyme de conversion de l'angiotensine et d'une des drogues ci-dessous, il est possible d'observer toutes les réponses suivantes sauf une, laquelle?",
+        "options": "(A) L'atropine (I.V.) augmente la fréquence cardiaque.\n(B) L'angiotensine 1 (I.V.) augmente la pression artérielle.\n(C) La noradrénaline (I.V.) augmente la fréquence cardiaque.\n(D) L'angiotensine II (I.V.) augmente la pression artérielle.\n(E) La phényléphrine (agoniste alpha-adrénergique, I.V.) augmente la pression artérielle.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, donner la réponse exacte. Chez la femme, les androgènes sont produits par:",
+        "options": "(A) Le follicule de De Graaf.\n(B) La corticosurrénale.\n(C) La glande mammaire.\n(D) La médullosurrénale.\n(E) L'adénohypophyse.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Les enzymes suivantes interviennent dans le cycle de l'uréogénèse, sauf une. Laquelle?",
+        "options": "(A) Ornithine carbamyltransférase.\n(B) Arginosuccinate synthétase.\n(C) Arginosuccinate lyase.\n(D) Lacticodeshydrogénase.\n(E) Arginase.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, laquelle est exacte? Dans le foie humain, l'agent de conjugaison utilisé dans le métabolisme de détoxification est:",
+        "options": "(A) L'acide acétoacétique.\n(B) L'acide glucuronique.\n(C) L'acide benzoïque.\n(D) L'acide lactique.\n(E) L'acide alpha-cétoglutarique.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Une seule définition de l'amnésie antérograde causée par les benzodiazépines est exacte. Laquelle?",
+        "options": "(A) Elle concerne les évènements antérieurs à la prise du médicament.\n(B) Elle concerne les évènements postérieurs à la prise du médicament.\n(C) Elle concerne à la fois les évènements antérieurs et postérieurs à la prise du médicament.\n(D) Elle concerne les évènements postérieurs à l'arrêt brutal du traitement.\n(E) Les benzodiazépines ne sont pas amnésiantes.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les définitions suivantes concernant la concentration minimale inhibitrice d'un antibiotique vis à vis d'une bactérie, une seule est exacte. Laquelle?",
+        "options": "(A) Concentration d'antibiotique inhibant la croissance de 90% des bactéries de la même espèce.\n(B) Concentration d'antibiotique nécessaire pour tuer 99,9% des bactéries de la même espèce.\n(C) Plus faible concentration d'antibiotiques inhibant toute la croissance bactérienne visible à l'oeil nu.\n(D) Concentration d'antibiotique obtenue in vivo lors du traitement d'une infection due à cette bactérie.\n(E) Concentration d'antibiotique éliminée par voie urinaire lors du traitement d'une infection due à cette bactérie.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les bactéries suivantes, une seule n'est pas responsable de diarrhées. Laquelle?",
+        "options": "(A) Escherichia Coli.\n(B) Streptococcus agalactiae.\n(C) Clostridium perfringens.\n(D) Salmonella typhimurium.\n(E) Shigella sonnei.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Concernant l'insuffisance rénale aiguë fonctionnelle, indiquer la proposition inexacte:",
+        "options": "(A) S'accompagne d'une oligurie.\n(B) L'urée plasmatique augmente proportionnellement plus que la créatininémie.\n(C) Le sodium urinaire est supérieur à 20 mmol/L.\n(D) Le rapport des concentrations de l'urée urinaire à l'urée plasmatique est supérieur à 10.\n(E) Est souvent secondaire à une déshydratation.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "En 1998, sur 85.000 hommes de 60 à 64 ans, 300 cas d'infarctus du myocarde ont été dénombrés dont 270 nouveaux. Parmi les nouveaux cas, 135 sont décédés dans l'année. Le nombre total de décès dus à cette maladie pour l'année est de 150; Parmi les résultats ci-dessous, indiquer celui qui représente le taux d'incidence:",
+        "options": "(A) 135/85.000.\n(B) 300/85.000.\n(C) 150/85.000.\n(D) 270 /85.000.\n(E) 135/270.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est fausse, laquelle? La méthyldopa ou ALDOMET:",
+        "options": "(A) Est un antihypertenseur d'action centrale.\n(B) Agit indirectement par l'intermédiaire d'un produit de biotransformation, l'alphaméthylnoradrénaline.\n(C) Doit son action antihypertensive à l'activation de récepteurs alpha-l.\n(D) Suscite parfois une anémie hémolytique.\n(E) Est prescrite le plus souvent en association avec un diurétique.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les produits suivants, lequel est un antagoniste pur vis-à-vis des récepteurs morphiniques ?",
+        "options": "(A) Morphine.\n(B) Pentazocine.\n(C) Buprénorphine.\n(D) Nalorphine.\n(E) Naloxone.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant les spectres atomiques, laquelle est fausse?",
+        "options": "(A) Les éléments à étudier se trouvent à l'état de vapeur atomique.\n(B) Les spectres obtenus sont des spectres de raie.\n(C) Les éléments étudiés sont essentiellement des métalloïdes.\n(D) Le spectre peut-être obtenu, soit par émission soit par absorption.\n(E) Les spectres obtenus se situent principalement dans le domaine visible ou ultraviolet.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les antibiotiques suivants, lequel n'est utilisé que dans le traitement de la gonococcie?",
+        "options": "(A) Streptomycine.\n(B) Gentamicine.\n(C) Spectinomycine.\n(D) Spiramycine.\n(E) Sulfadiazine.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est exacte. Laquelle? Les lymphocytes T exprimant un récepteur gamma delta:",
+        "options": "(A) Expriment nécessairement la molécule CD3.\n(B) Représentent une sous population de lymphocytes auxiliaires.\n(C) Coexpriment toujours CD4 et CD8.\n(D) Sont localisés principalement dans les ganglions lymphatiques.\n(E) Sont incapables de sécréter des cytokines.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant la résistance bactérienne aux B-lactamines par production de B-lactamase, une seule est fausse. Laquelle?",
+        "options": "(A) Elle peut être codée par des gènes chromosomiques.\n(B) Elle peut être transmise d'une bactérie à une autre.\n(C) Elle entraîne toujours la résistance à toutes les bêta-- Iactamines.\n(D) On la rencontre chez les entérobactéries.\n(E) Ce n'est pas le seul mécanisme de résistance bactérienne aux bêta--lactamines.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les signes biologiques suivants, lequel est le plus évocateur d'un hyperaldostéronisme primaire?",
+        "options": "(A) Hypomagnésémie.\n(B) Polyurie.\n(C) Acidose métabolique.\n(D) Hypokaliémie.\n(E) Hypercalciurie.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est exacte. Laquelle? L'immunité à médiation cellulaire peut-être transmise par:",
+        "options": "(A) Le sérum.\n(B) Les lymphocytes B.\n(C) Les polynucléaires basophiles.\n(D) Les lymphocytes T.\n(E) Les monocytes.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, indiquer celle qui est exacte. Lors d'une intoxication par le méthanol, le traitement peut faire intervenir",
+        "options": "(A) La N-acétyl cystéine.\n(B) La pralidoxime.\n(C) L'acide ascorbique.\n(D) Le 4-méthyl pyrazole.\n(E) L'éthylène glycol.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant les infections à Listeria monocytogenes, laquelle est exacte?",
+        "options": "(A) Elles sont dues à un bacille Gram négatif.\n(B) Elles surviennent uniquement chez le nouveau-né.\n(C) On peut les traiter par céphalosporine de 3ème génération.\n(D) Elles peuvent être consécutives à une contamination d'origine alimentaire.\n(E) On peut les prévenir par vaccination.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les antidotes suivants, un seul n'est pas utilisé dans l'intoxication par le plomb, indiquer lequel?",
+        "options": "(A) Acide dithiosuccinique.\n(B) Dimercaprol.\n(C) EDTA dicolbatique.\n(D) Sel disodique monocalcique de l'EDTA.\n(E) Pénicillamine.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, laquelle est exacte? Les modifications induites à l'échelle moléculaire par des radiations de fréquence appartenant au domaine de l'ultraviolet sont:",
+        "options": "(A) Un changement de niveau énergétique d'électrons périphériques.\n(B) Des vibrations de liaisons entre atomes constituant la molécule.\n(C) Des rotations des molécules.\n(D) Des variations de spin des électrons.\n(E) Un changement de niveau énergétique des électrons internes.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Concernant les hormones thyroïdiennes, une des propositions suivantes est fausse: laquelle?",
+        "options": "(A) Elles inhibent la sécrétion par l'hypophyse de TSH.\n(B) Elles ont un effet chronotrope positif sur le coeur.\n(C) Elles potentialisent les effets de l'adrénaline sur la glycogénolyse.\n(D) Elles entraînent un ralentissement des réflexes ostéotendineux.\n(E) Elles diminuent la cholestérolémie.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "A propos des bactéries appartenant au genre Streptococcus, une seule proposition est exacte, laquelle?",
+        "options": "(A) Cocci à Gram négatif.\n(B) Catalase positive.\n(C) Aérobies strictes.\n(D) Sensibles aux aminosides.\n(E) Immobiles.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "La lampe à cathode creuse utilisée en spectrophotométrie d'absorption atomique est remplie d'un gaz. Lequel?",
+        "options": "(A) Dichlore.\n(B) Dioxygène.\n(C) Dioxyde de carbone.\n(D) Argon.\n(E) Méthane.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Les examens suivants sont normaux dans le myélome non sécrétant, sauf un, lequel?",
+        "options": "(A) Vitesse de sédimentation.\n(B) Concentration des protéines sériques.\n(C) Électrophorèse des protéines sériques.\n(D) Myélogramme.\n(E) Électrophorèse des protéines urinaires.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant l'infection par le virus de l'immunodéficience humaine, laquelle est fausse?",
+        "options": "(A) Le stade SIDA est défini en fonction d'une liste de pathologies.\n(B) Le diagnostic d'infection chez le nouveau-né d'une mère infectée repose sur la recherche des anticorps.\n(C) Les inhibiteurs de la fusion de l'enveloppe virale avec la membrane cellulaire peuvent être utilisés en thérapeutique antirétrovirale.\n(D) Les lymphocytes CD4+ ne sont pas les seules cellules cibles de ce virus.\n(E) La transmission de la mère à l'enfant a surtout lieu en fin de grossesse et à l'accouchement.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant le métronidazole (FLAGYL®), une seule est exacte. Laquelle?",
+        "options": "(A) C'est un anti-amibien uniquement intestinal.\n(B) Il est toujours inactif sur les germes anaérobies.\n(C) Il est très peu résorbé après administration par voie orale.\n(D) Il possède un effet antabuse.\n(E) Il est très néphrotoxique.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les familles d'antibiotiques suivantes, indiquer celle qui présente la diffusion intracellulaire la plus faible.",
+        "options": "(A) Rifamycines.\n(B) Tétracyclines.\n(C) Macrolides.\n(D) Fluoroquinolones.\n(E) Bêta - Lactamines.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi ces produits, lequel n'est pas un antiparkinsonien?",
+        "options": "(A) Lisuride (DOPERGINE®).\n(B) Bromocriptine (PARLODEL®).\n(C) Alpha-méthyldopa (ALDOMET®).\n(D) Apomorphine (APOKINON®).\n(E) Sélégiline (DÉPRÉNYL®).",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Donner la réponse exacte. Le flumazénil (ANEXATE®) est l'antidote des intoxications par:",
+        "options": "(A) Antidépresseurs tricycliques.\n(B) Benzodiazépines.\n(C) Barbituriques.\n(D) Carbamates.\n(E) Phénothiazines.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Lequel de ces signes ou symptômes ne peut pas être relié à un paludisme à Plasmodium falciparum ?",
+        "options": "(A) Hépatosplénomégalie.\n(B) Accès pernicieux.\n(C) Hyperéosinophilie sanguine.\n(D) Accès fébrile.\n(E) Thrombopénie.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les symptômes suivants l'un d'entre eux n'est pas observé au cours d'un syndrome de manque à l'héroïne. Lequel?",
+        "options": "(A) Anxiété.\n(B) Myosis.\n(C) Douleurs abdominales.\n(D) Contractures musculaires.\n(E) Nausées.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Quelle est la proposition exacte?",
+        "options": "(A) Les barbituriques sont utilisables dans toutes les formes d'épilepsie.\n(B) Le vigabatrin (SABRIL®) provoque des anomalies du champ visuel.\n(C) Le vigabatrin (SABRIL®) est principalement un inhibiteur de la recapture du GABA.\n(D) La carbamazépine (TEGRETOL®) possède un groupement carbamate.\n(E) La lamotrigine (LAMICTAL®) est une molécule dérivant des benzodiazépines.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est fausse. Laquelle? En spectrophotométrie UV-visible, l'absorption:",
+        "options": "(A) Dépend de la longueur d'onde.\n(B) Dépend de l'épaisseur de la cuve.\n(C) Dépend de la concentration de la solution.\n(D) Dépend du coefficient d'absorption molaire du composé dosé.\n(E) Est égale au rapport I/I0.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Quelle est la proposition exacte? En pharmacovigilance, l'imputabilité intrinsèque:",
+        "options": "(A) Est basée sur les données chronologiques et sémiologiques.\n(B) Est basée uniquement sur les données bibliographiques.\n(C) Est basée à la fois sur les données bibliographiques et sémiologiques.\n(D) Est basée uniquement sur les données chronologiques.\n(E) Est basée uniquement sur les données sémiologiques.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, laquelle est exacte? Les facteurs rhumatoïdes sont:",
+        "options": "(A) Des anticorps dirigés contre des antigènes de la membrane synoviale.\n(B) Des anticorps dirigés contre des IgM.\n(C) Des anticorps appartenant toujours à la classe des IgG.\n(D) Présents dans la circulation de la majorité des malades atteints de polyarthrite rhumatoïde (PR).\n(E) Présents uniquement chez les malades atteints de PR.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Quelle est la proposition fausse, concernant la blennorragie?",
+        "options": "(A) Elle fait partie des infections sexuellement transmissibles.\n(B) La benzylpénicilline est toujours efficace pour son traitement.\n(C) La bactérie responsable se présente sous forme de diplocoques à Gram négatif.\n(D) Elle peut se compliquer d'arthrite.\n(E) Elle peut se compliquer d'orchite.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "L'action anticancéreuse d'un \"antibiotique\" (par exemple METHOTREXATE®) est réalisée par inhibition d'une des enzymes suivantes. Laquelle?",
+        "options": "(A) Sérine hydroxyméthylase.\n(B) Dihydrofolate réductase.\n(C) Thymidilate synthétase.\n(D) Glycine synthétase.\n(E) Méthylène tétrahydrofolate réductase.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, indiquer celle qui est exacte. La première cause de mortalité par cancer chez la femme est due à :",
+        "options": "(A) Cancer du col de l'utérus.\n(B) Cancer pulmonaire non à petites cellules.\n(C) Cancer des voies aéro-digestives supérieures.\n(D) Cancer du sein.\n(E) Cancer colo-rectal.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi ces propositions concernant Echinococcus granulosus, une seule est fausse, laquelle?",
+        "options": "(A) C'est un cestode.\n(B) Le ver adulte mesure quelques miIlimètres.\n(C) L'hôte définitif est le chien.\n(D) Ses oeufs contiennent un embryon hexacanthe.\n(E) L'homme se contamine par ingestion de viande.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, laquelle est exacte ? On veut estimer un pourcentage proche de 0,5 avec une précision (écart-type) égale à 5%. La taille de l'échantillon à retenir est:",
+        "options": "(A) 100.\n(B) 200.\n(C) 1000.\n(D) 500.\n(E) Supérieur à 1000.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, laquelle est exacte? Le maintien du plateau de dépolarisation dans les cardiomyocytes extra-nodaux est dû :",
+        "options": "(A) à l'ouverture des canaux calciques transitoires.\n(B) à l'activation de l'échangeur Na/Ca.\n(C) au fonctionnement de la Ca-ATPase sarcoplasmique.\n(D) à une ouverture de canaux sodiques dépendants du voltage.\n(E) à l'ouverture de canaux à la ryanodine du réticulum sarcoplasmique.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, indiquer celle qui correspond le mieux à la définition d'une clairance:",
+        "options": "(A) Volume de plasma contenant une substance donnée, filtré par unité de temps.\n(B) Volume de plasma épuré en une substance donnée par unité de temps.\n(C) Volume d'urine contenant la même quantité d'une substance que 1 mL de plasma.\n(D) Volume de plasma contenant une substance donnée, passant par le rein par unité de temps.\n(E) Volume d'urine d'où une substance peut être réabsorbée par unité de temps.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi ces molécules, une seule n'est pas utilisée comme anti-épileptique. Laquelle?",
+        "options": "(A) Estazolam.\n(B) Clonazepam.\n(C) Clobazam.\n(D) Diazepam.\n(E) Ethosuximide.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, laquelle est exacte ? Le furosémide (LASILIX® comprimés à 40mg) :",
+        "options": "(A) Agit essentiellement au niveau du tube contourné distal.\n(B) Est inactif chez l'insuffisant rénal.\n(C) Est hypokaliémiant.\n(D) A une action tardive et prolongée.\n(E) Est indiqué dans le diabète insipide.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les affirmations suivantes concernant la grossesse, une seule est fausse. Laquelle?",
+        "options": "(A) Le taux plasmatique de l'estradiol augmente régulièrement.\n(B) Le taux plasmatique de la progestérone augmente régulièrement.\n(C) Le taux plasmatique de l'hormone gonadotrophique chorionique augmente régulièrement.\n(D) Le taux plasmatique de FSH est effondré.\n(E) Le taux plasmatique de LH est effondré.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "En cas d'intoxication par une benzodiazépine, quel est l'antidote à utiliser parmi les produits suivants?",
+        "options": "(A) naloxone (NARCAN®).\n(B) lactate de sodium.\n(C) flumazénil (ANEXATE®).\n(D) furosémide (LASILlX®).\n(E) chlorpromazine (LARGACTIL®).",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les signes cliniques suivants, lequel n'est pas rencontré lors d'une intoxication aiguë oxycarbonée?",
+        "options": "(A) Céphalées.\n(B) Vertiges.\n(C) Troubles du rythme cardiaque.\n(D) Vomissements.\n(E) Oligurie.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Lors de l'examen direct du LCR, la découverte de diplocoques à Gram négatif doit faire évoquer le germe suivant. Donner la réponse exacte.",
+        "options": "(A) Streptococcus pneumoniae.\n(B) Escherichia coli.\n(C) Neisseria meningitidis.\n(D) Cryptococcus neoformans.\n(E) Haemophilus influenzae.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi ces données concernant l'IL 2(interleukine 2) laquelle est fausse?",
+        "options": "(A) Elle est secrétée par les macrophages.\n(B) Elle permet la prolifération des lymphocytes T cytotoxiques.\n(C) Elle permet la prolifération et la différenciation des lymphocytes T helper.\n(D) Elle se fixe sur des récepteurs des lymphocytes B activés.\n(E) Elle permet l'apparition des cellules LAK (lymphokine Activated Killer).",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les observations suivantes, indiquer celle qui ne correspond pas à une intoxication par l'éthylène glycol.",
+        "options": "(A) Troubles digestifs.\n(B) Alcalose métabolique.\n(C) Signes neurologiques.\n(D) Hypocalcémie.\n(E) Hyperosmolalité plasmatique.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant la valeur du pH d'une solution aqueuse de paracétamol 0,01 M (HO-C6H4-NH-CO-CH3, pKa=9,50). Une seule est exacte. Laquelle?",
+        "options": "(A) Très basique (pH=12).\n(B) Faiblement acide (pH=5,75).\n(C) Neutre (pH =7).\n(D) Moyennement basique (pH=10,75).\n(E) Très acide (pH=2).",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi ces propositions, une seule est fausse, laquelle?",
+        "options": "(A) L'émission de lumière après excitation d'une molécule par radiations s'appelle fluorescence.\n(B) La raie de diffusion Rayleigh est un artefact de la fluorescence moléculaire.\n(C) Un spectrofluorimètre possède deux monochromateurs.\n(D) la phosphorescence est l'émission de lumière de molécules contenant des atomes de phosphore.\n(E) La diffusion Raman est un artefact de la fluorescence moléculaire.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant la concentration minimale bactéricide d'un antibiotique (CMB), laquelle est exacte?",
+        "options": "(A) Elle peut-être déterminée par la méthode des disques.\n(B) Elle diminue lorsque la bactérie devient résistante.\n(C) Elle est voisine de la concentration minimale inhibitrice (CMI) pour un antibiotique bactéricide.\n(D) Elle peut être déterminée en étudiant la liaison de l'antibiotique aux protéines sériques.\n(E) Elle ne peut-être déterminée pour un antibiotique bactériostatique.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions concernant la bile, une seule est fausse. Laquelle?",
+        "options": "(A) Elle est produite par le foie.\n(B) Elle est libérée en fonction des besoins dans l'intestin.\n(C) Elle se présente sous la forme d'un liquide incolore.\n(D) Le volume de sa sécrétion varie de 300 à 700 mL/24h.\n(E) Elle est stockée dans la vésicule biliaire.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Lequel de ces produits ne doit jamais être associé à la Méfloquine (LARIAM®)",
+        "options": "(A) Valproate (DEPAKINE®).\n(B) Carbamazépine (TEGRETOL®).\n(C) Ethosuximide (ZARONTIN®).\n(D) Phénytoïne (DI-HYDAN®).\n(E) Phénobarbital (GARDENAL®).",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Toutes les propositions suivantes sont des manifestations d'une intoxication salicylée. Sauf une, laquelle?",
+        "options": "(A) Céphalées.\n(B) Troubles visuels.\n(C) Vertiges.\n(D) Gastralgies.\n(E) Hypothermie.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les produits suivants, donner celui qui possède un antidote spécifique:",
+        "options": "(A) Imipramine.\n(B) Trichloréthylène.\n(C) Aspirine.\n(D) Phénobarbital.\n(E) Digoxine.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant la résistance des bactéries aux antibiotiques, laquelle est fausse?",
+        "options": "(A) Elle peut être acquise.\n(B) Le support génétique peut être un plasmide.\n(C) Elle ne peut pas être due à une mutation.\n(D) Elle peut correspondre à une excrétion accrue de l'antibiotique.\n(E) Elle peut correspondre à une inactivation enzymatique de l'antibiotique.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Concernant l'érythromycine, quelle est la proposition exacte?",
+        "options": "(A) Elle est sensible à l'acidité gastrique.\n(B) Elle se caractérise par une excellente diffusion dans le LCR.\n(C) Elle est éliminée essentiellement par le rein sous forme active.\n(D) Elle n'est jamais administrée par voie parentérale.\n(E) Elle a des propriétés inductrices des cytochromes P450.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant les solvants chlorés, une seule est fausse, laquelle?",
+        "options": "(A) Ce sont des produits volatils.\n(B) Ils sont très peu liposolubles.\n(C) Le dichlorométhane (chlorure de méthylène) est partiellement métabolisé en monoxyde de carbone (CO).\n(D) Le tétrachlorure de carbone est néphrotoxique.\n(E) Le chlorure de vinyle est cancérogène chez l'homme.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant la chromatographie sur colonne, une seule est fausse, laquelle? On augmente la résolution de deux solutés:",
+        "options": "(A) En augmentant la longueur de la colonne.\n(B) En augmentant le diamètre des particules.\n(C) En changeant la nature de la phase mobile.\n(D) En modifiant la vitesse de la phase mobile.\n(E) En augmentant le facteur de sélectivité.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant la maladie de Willebrand, une seule est fausse, laquelle?",
+        "options": "(A) Elle touche uniquement les sujets de sexe masculin.\n(B) C'est une des plus fréquentes anomalies constitutionnelles de l'hémostase.\n(C) L'allongement du temps de saignement reste un critère diagnostique important.\n(D) Elle est liée à une anomalie qualitative ou quantitative du facteur Willebrand.\n(E) La symptomatologie hémorragique reflète principalement l'anomalie de l'hémostase primaire.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "A propos du téniasis à Taenia saginata, une seule de ces propositions est fausse, laquelle?",
+        "options": "(A) C'est le téniasis le plus répandu en France.\n(B) Il est dû à la présence chez l'homme d'un trématode sous sa forme adulte.\n(C) Le ver responsable est un parasite hétéroxène.\n(D) La forme infestante pour l'homme est véhiculée par de la viande de boeuf insuffisamment cuite.\n(E) Le niclosamide (TREDEMINE®) constitue le traitement de première intention.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant les infections par Clostridium perfringens, laquelle est fausse?",
+        "options": "(A) Elles peuvent être consécutives à une contamination alimentaire.\n(B) L'isolement de la bactérie nécessite une atmosphère anaérobie.\n(C) Les aminopénicillines peuvent être utilisées pour leur traitement.\n(D) Il en existe une prophylaxie vaccinale efficace.\n(E) Habituellement, elles ne sont pas d'origine nosocomiale.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les médicaments suivants, lequel est le plus efficace dans le traitement de l'hypercholestérolémie lIa?",
+        "options": "(A) Le clofibrate.\n(B) La simvastatine.\n(C) Le fénofibrate.\n(D) La colestyramine.\n(E) Les acides oméga-3 polyinsaturés.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant le débit de filtration glomérulaire, une seule est fausse. Laquelle?",
+        "options": "(A) Il est mesuré par la clairance à la créatinine.\n(B) Il est augmenté par libération du facteur natriurétique auriculaire.\n(C) Il représente en moyenne de 16 à 20 % du débit plasmatique rénal.\n(D) Il augmente à l'effort.\n(E) Il diminue avec l'âge.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, donner la réponse exacte. Le terme de morbidité est synonyme de",
+        "options": "(A) Létalité.\n(B) Infections nosocomiales.\n(C) Consommation de services ambulatoires.\n(D) Phénomènes pathologiques.\n(E) Facteurs de risque.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est fausse. Laquelle? Lors de l'extraction par un solvant non miscible à l'eau, d'ions métalliques en présence d'un chélatant acide HL",
+        "options": "(A) Le rendement de l'extraction augmente avec la concentration en protons de la solution aqueuse.\n(B) Le rendement de l'extraction augmente avec la concentration en réactif chélatant dans la solution organique.\n(C) Le taux de distribution du métal est proportionnel à la constante d'extraction Kex.\n(D) Le taux de distribution du métal est proportionnel à la concentration de l'excès de réactif chélatant.\n(E) Les chélates métalliques de Kex très différents sont extraits sélectivement à des pH différents.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est fausse. Laquelle? Le méthanol:",
+        "options": "(A) Est narcotique à forte dose.\n(B) Est irritant pour les muqueuses oculaires.\n(C) Provoque une atteinte oculaire lors d'une intoxication aiguë.\n(D) Peut-être dosé par chromatographie en phase gazeuse.\n(E) Est métabolisé en acide oxalique.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est exacte. Laquelle? Une substance inotrope positive agit sur le coeur en :",
+        "options": "(A) Augmentant la vitesse de conduction.\n(B) Augmentant la vitesse cardiaque.\n(C) Augmentant le délai de transmission dans le tissu nodal.\n(D) Augmentant la force des contractions.\n(E) Elevant le seuil de polarisation des cellules cardionectrices.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "A propos des mycoses unguéales, une seule de ces propositions est fausse, laquelle?",
+        "options": "(A) Trichophyton rubrum est un agent classique des onyxis dermatophytiques.\n(B) Un onyxis à Candida albicans a classiquement pour point de départ un périonyxis.\n(C) La griséofulvine est inefficace dans les onyxis levuriques.\n(D) La source de contamination des onyxis dermatophytiques est endogène.\n(E) Leur diagnostic repose sur l'examen direct et la mise en culture du prélèvement.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, donner celle qui est exacte. La déclaration d'un effet indésirable d'un médicament commercialisé doit se faire selon la réglementation:",
+        "options": "(A) Au centre régional de pharmacovigilance.\n(B) Au laboratoire pharmaceutique fabricant.\n(C) A l'agence française de sécurité sanitaire des produits de santé.\n(D) A la pharmacie d'un établissement hospitalier.\n(E) A l'inspection de la pharmacie.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant l'Herpes simplex virus, laquelle est fausse?",
+        "options": "(A) Il peut être transmis à l'enfant au cours de l'accouchement.\n(B) Il établit sa latence dans les lymphocytes.\n(C) C'est un virus à ADN enveloppé.\n(D) Il peut provoquer des encéphalites.\n(E) Il peut être isolé sur cultures cellulaires.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Pour surveiller une personne exposée au plomb, on peut utiliser tous les tests suivants sauf un, lequel?",
+        "options": "(A) Dosage de plomb sanguin.\n(B) Dosage du plomb urinaire.\n(C) Dosage de la méthémoglobinémie.\n(D) Dosage de l'acide delta aminolévulinique urinaire.\n(E) Dosage des porphyrines urinaires.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Quelle est l'affirmation qui ne s'applique pas aux excipients d'un comprimé?",
+        "options": "(A) Comme diluant, on peut utiliser le lactose.\n(B) Le stéarate de magnésium est un lubrifiant.\n(C) Les amidons peuvent avoir des actions de liant ou être des agents de désagrégation.\n(D) Le polyéthylène glycol (PEG) 400 est le plus utilisé en compression.\n(E) Les dérivés méthacryliques sont mis en oeuvre pour l'enrobage.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Monsieur Y, 77 ans, doit être traité par l'amiodarone (CORDARONE®). Parmi les examens suivants, quel est celui qui doit être fait avant la mise en route de ce traitement?",
+        "options": "(A) Cortisolémie.\n(B) FSH.\n(C) TSH.\n(D) Testostéronémie.\n(E) Prolactinémie.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes à propos du sulpiride (DOGMATIL®), laquelle est inexacte?",
+        "options": "(A) C'est un dérivé benzamide.\n(B) C'est un antagoniste des récepteurs à la dopamine.\n(C) Il peut être associé à la lévodopa.\n(D) Il peut induire une hyperprolactinémie.\n(E) Il est peu métabolisé.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les bactéries suivantes, laquelle est fréquemment rencontrée comme agent d'infection ORL de l'enfant?",
+        "options": "(A) Treponema pallidum.\n(B) Clostridium tetani.\n(C) Haemophilus influenzae.\n(D) Neisseria gonorrhoeae.\n(E) Vibrio cholerae.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant la conduite à tenir en cas de contamination interne par un radionucléide, indiquer celle qui est fausse.",
+        "options": "(A) La conduite à tenir dépend du radionucléide.\n(B) Administration d'iode stable si contamination par l'iode radioactif.\n(C) Administration d'aérosol de complexant.\n(D) Lavage des téguments à l'eau savonneuse.\n(E) Examen à l'anthropogammamètre pour suivre l'élimination.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi ces hormones, une seule n'est pas sécrétée par les surrénales, laquelle?",
+        "options": "(A) La déhydroépiandrostérone.\n(B) Le cortisol.\n(C) L'aldostérone.\n(D) L'androstènedione.\n(E) L'estriol.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant le tritium, indiquer la réponse exacte. Le tritium, H(A=3, Z=l), est principalement un émetteur :",
+        "options": "(A) Gamma.\n(B) Alpha.\n(C) I.R.\n(D) Béta-.\n(E) X.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant la vaccination contre le tétanos, quelle est la réponse exacte?",
+        "options": "(A) C'est un vaccin vivant atténué.\n(B) Il provoque chez le sujet vacciné la formation d'anticorps anti-toxine tétanique.\n(C) Il se compose d'une suspension de Clostridium tetani.\n(D) Il ne doit pas être associé à d'autres vaccins.\n(E) La vaccination n'est recommandée qu'à partir de l'âge de 10 ans.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Un patient polymédicamenté présente, une dizaine de jours après le début d'un traitement à base de CYMÉVAN® (ganciclovir) à raison de 4 gélules de 250 mg trois fois par jour, une forte fièvre accompagnée d'un oedème des membres inférieurs. Le prescripteur se demande si cet état est imputable au produit administré. Qui peut réaliser la mesure d'imputabilité?",
+        "options": "(A) L'AFSSAPS.\n(B) Le laboratoire pharmaceutique fabricant.\n(C) Le délégué médical du laboratoire.\n(D) Le centre régional de pharmacovigilance.\n(E) Le centre anti-poison.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi ces actions de prévention, quelle est celle qui ne relève pas de la prévention primaire?",
+        "options": "(A) Lutte anti-tabac pour l'infarctus du myocarde et le cancer du poumon.\n(B) Vaccination par le BCG.\n(C) Hystérectomie après mise en évidence de cellules tumorales par frottis du col de l'utérus.\n(D) Congé prénatal en cas de grossesse multiple.\n(E) Diminution de la consommation de graisses saturées dans la prévention des cardiopathies ischémiques.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes indiquer celle qui est inexacte. Le traitement de l'intoxication par les antidépresseurs tricycliques peut comprendre:",
+        "options": "(A) Le lactate de sodium molaire.\n(B) La ventilation mécanique.\n(C) Le diazépam.\n(D) Le charbon activé.\n(E) L'hémodialyse.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes caractérisant l'acidocétose chez le sujet diabétique, une seule est fausse. Laquelle?",
+        "options": "(A) Déshydratation.\n(B) Dyspnée.\n(C) Abaissement du pH sanguin.\n(D) Sueurs abondantes.\n(E) Diminution de la pC02.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, indiquer la proposition exacte. Les moutardes à l'azote sont:",
+        "options": "(A) Des antimétabolites.\n(B) Non toxiques sur les cellules hématopoïétiques.\n(C) Des poisons du fuseau.\n(D) Des alkylants.\n(E) Des intercalants.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant Chlamydia trachomatis, laquelle est exacte?",
+        "options": "(A) C'est une bactérie à développement intracellulaire strict.\n(B) La forme infectieuse est le corps réticulé.\n(C) La maladie qu'il provoque peut-être traitée par l'aciclovir.\n(D) Elle ne donne jamais d'infections chez le nouveau-né.\n(E) Le vaccin anti- Chlamydia trachomatis est à base de glycoprotéines de surface.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les familles d'antibiotiques suivantes, quelle est celle vis-à-vis de laquelle Streptococcus agalactiae présente une résistance naturelle?",
+        "options": "(A) Aminopénicillines.\n(B) Aminosides.\n(C) Glycopeptides.\n(D) Macrolides.\n(E) Céphalosporines.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, concernant la spectrophotométrie d'absorption moléculaire UVvisible, quelle est celle qui est fausse?",
+        "options": "(A) On utilise des cuves avec deux faces polies.\n(B) La présence d'une impureté modifie la position des longueurs d'onde des maxima d'absorption.\n(C) C'est la méthode de référence pour l'identification.\n(D) C'est une méthode qui permet l'analyse des mélanges.\n(E) Les formes acide et basique d'une même molécule peuvent avoir des spectres différents.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant le métabolisme du benzène, indiquer celle qui est inexacte:",
+        "options": "(A) Il est oxydé en époxyde par l'action du cytochrome P450.\n(B) Il forme du phénol.\n(C) Conjugué à la glycine, une partie est éliminée sous forme d'acide hippurique.\n(D) Il forme de l'hydroquinone.\n(E) Par ouverture du cycle benzénique, on obtient l'acide trans-trans muconique.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est exacte, laquelle? Les cellules du système immunitaire communiquent par l'intermédiaire de médiateurs solubles. Ces messagers appartiennent à la famille des :",
+        "options": "(A) Leucotriènes.\n(B) Prostaglandines.\n(C) Interleukines.\n(D) Immunoglobulines.\n(E) Chimiokines.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Cocher la réponse exacte: les cellules hyperbasophiles retrouvées sur le frottis sanguin au cours d'une mononucléose infectieuse sont:",
+        "options": "(A) Des lymphocytes B activés.\n(B) Des lymphocytes T activés.\n(C) Des monocytes.\n(D) Des lymphoblastes.\n(E) Des monoblastes.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est fausse. Laquelle? Les amines primaires aromatiques peuvent être dosées par:",
+        "options": "(A) Spectrophotométrie dans l'UV.\n(B) Photométrie après diazocopulation.\n(C) Chromatographie liquide, après formation de paires d'ions.\n(D) Le méthylate de sodium en milieu aqueux.\n(E) Diazotation titrimétrique.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les affirmations suivantes concernant la résistance bactérienne aux bêta- lactamines par modification des protéines fixant les pénicillines ( P.F.P), une seule est fausse. Laquelle?",
+        "options": "(A) Elle peut être acquise par mutation chromosomique.\n(B) Elle n'entraîne pas systématiquement la résistance à toutes les beta- lactamines.\n(C) On la rencontre chez les entérobactéries.\n(D) On ne la retrouve pas chez les staphylocoques.\n(E) Ce n'est pas le seul mécanisme de résistance bactérienne aux beta- lactamines.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Quelle est la proposition exacte concernant les anticorps de la classe des IgM ?",
+        "options": "(A) Masse moléculaire voisine de 150000 Da.\n(B) Traversent la barrière placentaire.\n(C) Majoritaires au niveau des muqueuses.\n(D) Constante de sédimentation de 7 S.\n(E) Activent le complément par la voie classique.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est fausse. Laquelle? Dans l'oxyurose, la prophylaxie consiste à:",
+        "options": "(A) Traiter tous les membres de la famille.\n(B) Traiter les animaux de compagnie.\n(C) Se laver les mains avant chaque repas.\n(D) Couper les ongles courts.\n(E) Renouveler le traitement au bout de 3 semaines.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, indiquer celle qui est fausse:",
+        "options": "(A) La méthémoglobine présente un fer ferrique.\n(B) La naphtaline (ou naphtalène) est un agent méthémoglobinisant.\n(C) Les sulfates sont des agents méthémoglobinisants.\n(D) Certains sulfamides sont des agents méthémoglobinisants.\n(E) Le chlorate de potassium utilisé comme herbicide est un agent méthémoglobinisant.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant la chromatographie à polarité de phase inversée, laquelle est inexacte?",
+        "options": "(A) La phase stationnaire est polaire.\n(B) Le phénomène de partage est exploité.\n(C) La phase stationnaire est greffée.\n(D) L'éluant est polaire.\n(E) La détection peut être électrochimique.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi ces solvants chlorés, indiquer celui qui se transforme partiellement en monoxyde de carbone dans l'organisme :",
+        "options": "(A) Monochlorométhane ou chlorure de méthyle.\n(B) Dichlorométhane ou chlorure de méthylène.\n(C) Trichlorométhane ou chloroforme.\n(D) Tétrachlorométhane ou tétrachlorure de carbone.\n(E) 1,1,1-trichloréthane.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, laquelle est exacte? Le traitement d'une intoxication aigüe par le méthanol consiste à administrer:",
+        "options": "(A) De l'isopropanol.\n(B) De l'éthylène glycol.\n(C) Du CONTRATHION.\n(D) De la naloxone.\n(E) De l'éthanol.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est inexacte, laquelle? En chromatographie en phase gazeuse, comparativement aux colonnes remplies, les colonnes capillaires :",
+        "options": "(A) Présentent une plus faible perméabilité.\n(B) Offrent un plus grand nombre de plateaux théoriques.\n(C) Permettent de meilleures séparations.\n(D) Nécessitent des injecteurs différents.\n(E) Ne nécessite pas des détecteurs différents.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant la spectrofluorimétrie, une seule proposition est fausse:",
+        "options": "(A) L'intensité de fluorescence est toujours proportionnelle à la concentration.\n(B) L'appareil possède un monochromateur d'excitation.\n(C) La longueur d'onde d'émission est supérieure à la longueur d'onde d'excitation.\n(D) La méthode est plus sensible que la spectrophotométrie UV-visible.\n(E) Elle peut-être utilisée comme détecteur en chromatographie liquide.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est exacte. Laquelle? L'épidémiologie se définit comme:",
+        "options": "(A) L'étude de la dissémination d'une maladie contagieuse dans une population.\n(B) L'étude des facteurs déterminant l'histoire des problèmes de santé dans une population.\n(C) Les statistiques appliquées à la médecine.\n(D) L'identification des facteurs de risques pour la santé.\n(E) L'étude de l'étiologie des différentes pathologies.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant l'héroïne, indiquer celle qui est fausse:",
+        "options": "(A) L'héroïne est un constituant naturel de l'opium.\n(B) L'héroïne entraîne une accoutumance rapide.\n(C) Le surdosage entraîne une dépression respiratoire.\n(D) le surdosage est associé à un myosis.\n(E) L'héroïne entraîne une dépendance rapide.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est exacte. Les réactions du cycle de l'urée se produisent",
+        "options": "(A) Dans le cytosol uniquement.\n(B) Dans la matrice mitochondriale uniquement.\n(C) Dans la matrice mitochondriale et le cytosol.\n(D) Dans les lysosomes.\n(E) Dans les peroxysomes.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Quelle est l'anomalie que l'on observe dans le coma acidocétosique?",
+        "options": "(A) Bradypnée compensatoire.\n(B) Hypokaliémie.\n(C) Hypocalcémie.\n(D) C02 total plasmatique augmenté.\n(E) Hémoconcentration.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Dans quels cas, les bêta-mimétiques par voie générale sont-ils contre-indiqués?",
+        "options": "(A) La grossesse.\n(B) L'asthme.\n(C) L'insuffisance coronaire sévère.\n(D) L'ulcère gastro-oesophagien.\n(E) La dépression.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les affirmations concernant les situations où l'on peut rencontrer une cétonurie, une seule est fausse. Laquelle?",
+        "options": "(A) Jeûne prolongé chez un sujet normal.\n(B) Régime restrictif chez un obèse.\n(C) Insuffisance des doses d'insuline chez un diabétique insulino-traité.\n(D) Ethylisme aigu.\n(E) Vomissements importants chez l'enfant.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Citer le médicament utilisé dans toutes les formes d'épilepsie",
+        "options": "(A) Carbamazépine.\n(B) Acide valproïque.\n(C) Phénobarbital.\n(D) Phénytoïne.\n(E) Ethosuximide.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les modifications suivantes, quelle est la première à apparaître dans la carence martiale?",
+        "options": "(A) Baisse de l'hémoglobinémie.\n(B) Baisse du nombre des hématies.\n(C) Augmentation du taux de bilirubine.\n(D) Baisse du fer sérique.\n(E) Baisse de la ferritine sérique.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les composés suivants, un seul n'est pas méthémoglobinisant. Lequel?",
+        "options": "(A) Nitrite de sodium.\n(B) Aniline.\n(C) Ferricyanure de sodium.\n(D) Nitroglycérine.\n(E) Trichloréthylène.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est fausse. Laquelle? Le méthanol:",
+        "options": "(A) Présente une toxicité oculaire.\n(B) Est un réducteur.\n(C) Est un solvant inflammable.\n(D) A une demi-vie plasmatique de quelques minutes.\n(E) Est dialysable.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "L'activité d'une source radioactive qui est le siège d'une désintégration par seconde est de :",
+        "options": "(A) 1 curie.\n(B) 1 joule.\n(C) 1 becquerel.\n(D) 1 rad.\n(E) 1 gray.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, laquelle est exacte? Le test biologique de choix pour faire un diagnostic spécifique d'hépatite A (VHA) est :",
+        "options": "(A) L'isolement du virus à partir d'un prélèvement de gorge.\n(B) L'isolement du virus sur oeuf embryonné à partir des selles prélevées à la phase aigüe.\n(C) Le dosage des transaminases.\n(D) la mise en évidence d'anticorps anti-VHA de classe IgM à la phase aiguë.\n(E) L'élévation du titre d'anticorps anti-HA dans deux sérums prélevés à 15 jours d'intervalle.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant les glycopeptides, laquelle est fausse?",
+        "options": "(A) Ils peuvent être actifs à l'égard des staphylocoques résistants à la méticilline.\n(B) Ils agissent par perturbation de la synthèse pariétale chez les bactéries.\n(C) La vancomycine et la teicoplanine sont des glycopeptides.\n(D) On les administre le plus souvent par voie orale.\n(E) la résistance bactérienne peut-être due à une modification de la cible de l'antibiotique.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les questions suivantes, indiquer le mécanisme d'action du citalopram (SEROPRAM)",
+        "options": "(A) Inhibiteur non spécifique des MAO.\n(B) Inhibiteur spécifique de la MAO A.\n(C) Provoque une déplétion d'amines biogène.\n(D) Inhibiteur de la recapture de la noradrénaline et de la sérotonine.\n(E) Inhibiteur sélectif de la recapture de la sérotonine.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions concernant le monoxyde de carbone, indiquer laquelle est inexacte",
+        "options": "(A) Il a une affinité pour l'hémoglobine au moins 200 fois supérieure à celle de l'oxygène.\n(B) Son seul point d'impact est l'hémoglobine.\n(C) Il y a risque de décès lorsque les 2/3 de l'hémoglobine sont transformés en carboxyhémoglobine.\n(D) C'est un gaz inodore.\n(E) C'est un gaz très diffusible.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant l'électrophorèse de zone, quelle est la proposition exacte? Le rôle essentiel du support est:",
+        "options": "(A) De contenir le milieu liquide dans lequel se déroulent les processus de séparation électrophorétique.\n(B) De s'opposer à l'effet Joule.\n(C) De limiter la formation des courants convectifs (dus à l'effet Joule).\n(D) De constituer un tamis moléculaire.\n(E) De posséder une affinité spécifique pour certains ligands.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, laquelle est exacte ? Les hétérosides cardiotoniques exercent un effet inotrope positif:",
+        "options": "(A) Par une stimulation des récepteurs bêta-adrénergiques cardiaques.\n(B) Par un effet parasympatholytique.\n(C) Par une inhibition de la Na+/K+ ATPase et une modification secondaire des mouvements du calcium.\n(D) Par une inhibition de l'entrée du calcium dans la cellule cardiaque.\n(E) Par un effet vasodilatateur.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est fausse, laquelle?",
+        "options": "(A) La warfarine (COUMADINE®) est utilisée en thérapeutique sous forme de sel sodique.\n(B) La demi-vie de l'acénocoumarol (SINTROM®) est plus longue que celle du tioclomarol (APEGMONE®).\n(C) La fluindione (PREVISCAN®) est un dérivé mono fluoré de la phénindione.\n(D) La phénindione (PINDIONE®) peut colorer les urines en rouge.\n(E) Le caractère acide des AVK est du à la présence d'un système céto-énolique.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, laquelle ne s'applique pas aux infections urinaires à Escherichia coli?",
+        "options": "(A) Elles peuvent s'accompagner de brûlures mictionnelles.\n(B) Elles peuvent être d'origine nosocomiale.\n(C) Le diabète représente un facteur de risque.\n(D) Les aminopénicillines sont toujours efficaces pour leur traitement.\n(E) Elles peuvent se compliquer de septicémie.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Un examen paraclinique a été testé chez 200 malades et 400 témoins. L'examen est positif chez 150 malades et 60 témoins. Quelle est sa sensibilité?",
+        "options": "(A) 0,71.\n(B) 0,75.\n(C) 0,85.\n(D) 0,87.\n(E) 0,95.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Dans une anémie par carence martiale dont la cause a été identifiée (ulcère gastrique ) et traitée chirurgicalement, pendant combien de temps le traitement martial doit-il être poursuivi?",
+        "options": "(A) Jusqu'à la crise réticulocytaire.\n(B) Jusqu'au retour à la normale de la concentration en hémoglobine.\n(C) Jusqu'au retour à la normale de la valeur de la CCMH.\n(D) Toute la vie.\n(E) Jusqu'à la correction de l'anémie et la restauration des réserves en fer évaluées par la ferritinémie.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, indiquer celle qui est vraie. Le complexe QRS de l'électrocardiogramme correspond à :",
+        "options": "(A) La contraction des oreillettes.\n(B) La dépolarisation des oreillettes.\n(C) La contraction des ventricules.\n(D) La dépolarisation des ventricules.\n(E) La repolarisation des ventricules.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Quelle est la proposition fausse concernant les unités utilisées dans le domaine de la physique nucléaire?",
+        "options": "(A) 1 eV= 1,6.10-19 J.\n(B) L'unité de masse atomique est égale au douzième de la masse d'un atome de 12C.\n(C) La masse d'un électron équivaut en énergie à 0,511 MeV.\n(D) 1 Bq = 1 S-1.\n(E) L'activité d'un radioélément s'exprime en curie (Ci) dans le système international.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant le mode de passage des nutriments à la face luminale des entérocytes, une seule est fausse, laquelle?",
+        "options": "(A) Cotransport actif pour le sodium, avec le glucose ou des acides aminés.\n(B) Diffusion simple pour les acides gras.\n(C) Transport actif pour les dipeptides.\n(D) Diffusion simple pour la vitamine B12.\n(E) Diffusion facilitée pour le fructose.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes laquelle est inexacte? En électrophorèse, la mobilité d'une particule varie selon:",
+        "options": "(A) La charge de la particule.\n(B) Le rayon de la particule.\n(C) Le pH du milieu.\n(D) La force ionique du milieu.\n(E) Le champ électrique appliqué.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les affirmations suivantes, indiquer celle qui est fausse. Un bilan d'hémostase préopératoire:",
+        "options": "(A) Doit s'appuyer sur l'interrogatoire du patient.\n(B) Est fonction du type d'intervention.\n(C) Est systématique chez le nourrisson.\n(D) Comprend systématiquement le dosage du fibrinogène.\n(E) Doit être réalisé moins de 15 jours avant l'intervention.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Dans la liste suivante concernant les modes de transmission du virus de l'hépatite B, une seule proposition est fausse, laquelle?",
+        "options": "(A) Transmission féco-orale.\n(B) Transmission transcutanée par du matériel contaminé.\n(C) Transmission transfusionnelle.\n(D) Transmission périnatale.\n(E) Transmission sexuelle.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Quelle est la pathologie qui s'accompagne d'un hypercorticisme ?",
+        "options": "(A) Maladie d'Addison.\n(B) Maladie de Cushing.\n(C) Syndrome de Conn.\n(D) Maladie de Basedow.\n(E) Syndrome de Barterr.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est fausse. Laquelle? L'héroïne:",
+        "options": "(A) Entraîne une dépendance physique marquée chez l'homme.\n(B) Entraîne une dépendance psychique marquée chez l'homme.\n(C) Entraîne une tolérance marquée chez l'homme.\n(D) Entraîne une mydriase.\n(E) Provoque une dépression respiratoire lors d'une «surdose».",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, donner celle qui est exacte. La prévention primaire a pour but:",
+        "options": "(A) La diminution de l'incidence des maladies.\n(B) La réduction de la durée des maladies.\n(C) La réinsertion des malades.\n(D) Le dépistage précoce des maladies.\n(E) La prévention des récidives.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant le monoxyde de carbone CO, une seule est exacte. Laquelle?",
+        "options": "(A) Chez l'homme, la combinaison CO-Hémoglobine est irréversible.\n(B) L'affinité de l'hémoglobine pour le CO est d'environ 220 fois moins forte que pour l'oxygène.\n(C) C'est un activateur du cytochrome P450.\n(D) Le CO est éliminé chez l'homme par voie pulmonaire.\n(E) Le CO est produit par combustion du carbone en présence d'un excès d'oxygène.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Quelle est la proposition exacte concernant l'ADN génomique humain?",
+        "options": "(A) Il n'est constitué que de séquences codantes (traduites en protéines).\n(B) Il est intégralement transcrit en ARN.\n(C) Il est intégralement traduit en protéines.\n(D) Il n'est constitué que de deux pour cent de séquences codantes.\n(E) Il ne comprend que des acides nucléiques nucléaires.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, laquelle ne s'applique pas à l'amoxicilline ?",
+        "options": "(A) C'est une aminopénicilline.\n(B) C'est l'antibiotique de choix dans les infections à Pseudomonas aeruginosa.\n(C) Elle est active par voie orale.\n(D) Elle peut provoquer des réactions allergiques.\n(E) Elle peut être administrée chez l'enfant.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les dispositifs expérimentaux suivants, quel est celui qui n'est pas utilisé en photométrie en flamme?",
+        "options": "(A) Nébuliseur.\n(B) Détecteur.\n(C) Brûleur.\n(D) Monochromateur.\n(E) Cuve en quartz.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Quelle est la proposition vraie concernant le diagramme (A-Z) =f (Z), représentant la ligne de stabilité des nucléides naturels?",
+        "options": "(A) Deux isotones sont situés sur une même verticale.\n(B) Deux isomères sont situés de part et d'autre de la ligne de stabilité.\n(C) Deux isotopes sont situés sur une même horizontale.\n(D) Deux isobares sont situés sur une même perpendiculaire à la bissectrice.\n(E) La ligne de stabilité est confondue avec la première bissectrice sur toute l'étendue des valeurs de Z.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant le trichloréthylène, une est fausse, laquelle?",
+        "options": "(A) Il provoque un syndrome ébrio-narcotique recherché par certains toxicomanes.\n(B) C'est un agent d'extraction.\n(C) Le chloral est un de ses métabolites.\n(D) Il provoque des extrasystoles.\n(E) C'est un solvant inflammable.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les bactéries suivantes, laquelle est un agent habituel d'otites chez l'enfant?",
+        "options": "(A) Neisseria gonorrhoeae.\n(B) Vibrio cholerae.\n(C) Haemophilus influenzae.\n(D) Mycobacterium tuberculosis.\n(E) Listeria monocytogenes.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, indiquer celle qui est juste. Chez un sujet intoxiqué par un agent méthémoglobinisant, le traitement par le bleu de méthylène IV sera inefficace si le malade:",
+        "options": "(A) Est à jeun.\n(B) Est déficitaire en glucose-6-phosphate déshydrogénase.\n(C) Est dans le coma.\n(D) Est déficitaire en cytochrome c réductase.\n(E) A absorbé des psychotropes.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est exacte, laquelle? La contraction isovolumétrique du ventricule cardiaque a lieu lorsque:",
+        "options": "(A) La valvule auriculo-ventriculaire est fermée et la sigmoïde ouverte.\n(B) La valvule auriculo-ventriculaire et la sigmoïde sont ouvertes.\n(C) La valvule auriculo-ventriculaire et la sigmoïde sont fermées.\n(D) La valvule auriculo-ventriculaire est ouverte et la sigmoïde fermée.\n(E) La pression dans l'oreillette est supérieure à la pression dans le ventricule.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Lequel de ces mécanismes explique l'action des bêta-lactamases sur les pénicillines?",
+        "options": "(A) Décarboxylation.\n(B) Coupure de la chaîne N-acyle.\n(C) Ouverture du cycle thiazolidine.\n(D) Attaque nucléophile du cycle lactame.\n(E) Oxydation du soufre.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est fausse: Quelle substance n'est pas l'antidote du toxique cité?",
+        "options": "(A) Plomb: EDTA calcique.\n(B) Aluminium: déféroxamine.\n(C) Ethylène glycol: alcool éthylique.\n(D) Benzodiazépines: lactate de sodium molaire.\n(E) Fer : déféroxamine.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Donner, parmi ces diurétiques, celui qui expose de façon très préférentielle à l'apparition d'une gynécomastie :",
+        "options": "(A) Spironolactone = ALDACTONE.\n(B) Chlortalidone = HYGROTON.\n(C) Indapamide = FLUDEX.\n(D) Hydrochlorothiazide = ESIDREX.\n(E) Ciclétanine = TENSTATEN.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Quel marqueur permet d'affirmer le caractère aigu d'une hépatite B ?",
+        "options": "(A) La recherche d'antigène HBs.\n(B) La recherche d'anticorps anti-HBs.\n(C) La recherche d'antigène HBe ..\n(D) La recherche d'anticorps anti-HBe.\n(E) La recherche d'anticorps IgM anti-HBc.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les composés biochimiques suivants, lequel intervient dans l'anabolisme de l'hémoglobine?",
+        "options": "(A) Acide glutamique.\n(B) Porphobilinogène.\n(C) Acétylcoenzyme A.\n(D) Lysine.\n(E) Acide propionique.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant les septicémies à Staphylococcus aureus, laquelle est exacte?",
+        "options": "(A) Elles sont toujours d'origine nosocomiale.\n(B) Elles peuvent être secondaires à une infection osseuse.\n(C) L'isolement de l'agent étiologique n'est pas possible sur gélose non enrichie..\n(D) Staphylococcus aureus ne possède pas de catalase.\n(E) Les aminopénicillines constituent l'antibiothérapie de première intention.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant l'éthylène glycol, indiquer celle qui est exacte:",
+        "options": "(A) Est oxydé en métabolites toxiques.\n(B) A pour antidote la N -acétyl-cystéine.\n(C) Est un liquide d'odeur caractéristique.\n(D) Est hépatotoxique.\n(E) S'élimine dans l'urine sous forme d'acide trichloracétique.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, indiquer la réponse fausse. La vaccination contre la rubéole est:",
+        "options": "(A) Souvent associée à la vaccination contre la rougeole et les oreillons.\n(B) Recommandée à partir de 12 mois.\n(C) Recommandée pour les filles seulement.\n(D) Refaite entre 13 et 24 mois.\n(E) Proposée aux jeunes femmes non vaccinées.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les techniques thérapeutiques suivantes, quelle est celle mise en oeuvre dans le traitement d'urgence d'une intoxication aigue oxycarbonée?",
+        "options": "(A) Diurèse osmotique alcalinisante.\n(B) Exsanguino-transfusion.\n(C) Oxygénothérapie hyperbare.\n(D) Dialyse extra-rénale.\n(E) Hémoperfusion.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant Escherichia coli, laquelle est fausse?",
+        "options": "(A) Il s'agit d'un bacille à Gram négatif.\n(B) C'est une bactérie toujours immobile.\n(C) C'est une bactérie aéro-anaérobie facultative.\n(D) C'est un agent de méningite.\n(E) Il peut être résistant a l'association d'aminopénicilline et d'inhibiteur de B-lactamase.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les apolipoprotéines suivantes, quelle est celle dont la synthèse est uniquement intestinale?",
+        "options": "(A) Apo A-l.\n(B) Apo B-48.\n(C) Apo B-I00.\n(D) Apo C-2.\n(E) Apo E.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est exacte, laquelle? Le tonus vasodilatateur d'origine nerveuse:",
+        "options": "(A) Est dû a une inibition du tonus vasoconstricteur.\n(B) Est dû a une mise enjeu du système parasympathique.\n(C) Est sous le contrôle de centres vasodilatateurs bulbaires.\n(D) Est mis en jeu de façon centrale.\n(E) N'existe pas.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Concernant la glycolyse, quelle est la proposition fausse?",
+        "options": "(A) Elle permet la transformation d'une molécule glucose en 2 molécules de pyruvate.\n(B) Elle ne fonctionne dans les cellules qu'en anaérobiose.\n(C) C'est la principale source d'énergie dans les cellules musculaires.\n(D) Toutes les enzymes de la glycolyse sont localisées dans le cytoplasme cellulaire.\n(E) La glycolyse fournit 2 molécules d'ATP par molécule de glucose transformée.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "La protéine C activée, en présence de protéine S, est l'inhibiteur physiologique d'un des facteurs de la coagulation suivants. Lequel?",
+        "options": "(A) Le facteur Il activé.\n(B) Le facteur V activé..\n(C) Le facteur V.\n(D) Le facteur IX activé.\n(E) Le facteur X activé.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant la spectroscopie électronique moléculaire UV-visible, une seule est exacte. Laquelle?",
+        "options": "(A) Elle permet de définir la structure d'une molécule.\n(B) Elle permet le dosage des alcanes.\n(C) Elle ne permet pas le dosage des ions minéraux.\n(D) Elle donne un spectre bien différencié pour chaque molécule.\n(E) Elle nécessite une source lumineuse.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant la cystite à Escherichia coli, laquelle est fausse?",
+        "options": "(A) Elle survient plus fréquemment chez la femme que chez l'homme.\n(B) Le diabète constitue un facteur favorisant.\n(C) Elle se rencontre en pathologie communautaire.\n(D) La norfloxacine est parfois utilisée pour son traitement.\n(E) L'antibiothérapie est toujours administrée par voie parentérale.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant la toxoplasmose cérébrale des patients atteints de SIDA, une seule est fausse, laquelle?",
+        "options": "(A) Il s'agit habituellement d'une réactivation d'une toxoplasmose ancienne.\n(B) L'imagerie médicale est un élément utile au diagnostic.\n(C) Elle peut être prévenue par vaccination.\n(D) L'association pyriméthamine-sulfadiazine est efficace.\n(E) Une prophylaxie secondaire d'entretien est habituellement conseillée.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est exactes : Au cours de la biosynthèse hépatique de l'urée, le premier atome d'azote provient de l'ammonium, le second provient:",
+        "options": "(A) de l'oxaloacétate.\n(B) Du fumarate.\n(C) De l'aspartate.\n(D) De l'arginine.\n(E) Du malate.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "L'ampérométrie est une méthode électrochimique :",
+        "options": "(A) À potentiel imposé.\n(B) À intensité nulle.\n(C) À intensité imposée.\n(D) À concentration fixe.\n(E) Basée sur la mesure de la quantité de courant consommé.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Des affections parasitaires suivantes laquelle peut être responsable d'une anémie ferriprive ?",
+        "options": "(A) Oxyurose.\n(B) Distomatose.\n(C) Ankylostomose.\n(D) Toxoplasmose.\n(E) Anguillulose.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les affirmations suivantes concernant l'amoxicilline une seule est fausse:",
+        "options": "(A) C'est un dérivé hydroxylé de l'ampicilline.\n(B) Per os elle a une biodisponibilité 2X supérieure à celle de l'ampicilline.\n(C) Klebsiella Serratia Enterobacter sont des espèces habituellement sensibles à cette substance.\n(D) Elle est contre indiquée en cas de mononucléose infectieuse.\n(E) Elle est administrée chez l'adulte à la dose habituelle de 1g/j par VO dans les infections courantes.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les affirmations suivantes concernant la bromocriptine une seule est fausse:",
+        "options": "(A) Elle a une structure indolique.\n(B) Agoniste de la dopamine.\n(C) Stimule la sécrétion de prolactine.\n(D) Indiquée dans certains cas de stérilité et galactorrhée.\n(E) Indiquée dans maladie de Parkinson en relais de la lévodopa.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, laquelle est exacte? L'iode 125, 125I, est un émetteur :",
+        "options": "(A) Alpha.\n(B) Gamma.\n(C) U.V..\n(D) Béta plus.\n(E) I.R.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Pour surveiller une personne exposée au plomb, vous pouvez utiliser tous les tests suivants sauf un, indiquer lequel ?",
+        "options": "(A) Dosage de l'acide delta-aminolévulinique urinaire.\n(B) Dosage des coproporphyrines urinaires.\n(C) Recherche des hématies fantômes.\n(D) Dosage du plomb dans le sang.\n(E) Dosage des protoporphyrines.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant Strongyloides stercoralis, une seule est inexacte, laquelle?",
+        "options": "(A) La femelle parthogénétique est parasite.\n(B) La multiplication sexuée se fait sur le sol.\n(C) Les manifestations cliniques sont uniquement intestinales.\n(D) Il existe un cycle direct endogène (ou d'auto-infestation).\n(E) La forme infestante est la larve strongyloïde.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant les VLDL, une seule d'entre elles est inexacte:",
+        "options": "(A) Contiennent une apoprotéine B-100.\n(B) Transportent les triglycérides endogènes.\n(C) Transportent les triglycérides alimentaires.\n(D) Sont dégradés par une lipoprotéine lipase.\n(E) Sont des précurseurs des LDL.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "La prévalence se définit comme étant:",
+        "options": "(A) Le nombre de nouveaux cas pendant une certaine période, multiplié par la durée moyenne de la maladie.\n(B) Le nombre de nouveau cas pendant une période, divisé par le nombre d'habitants au milieu de cette période.\n(C) Le nombre de morts pendant une certaine période, divisé par le nombre d'habitants au début de cette période.\n(D) Le nombre de cas à un moment donné, divisé par le nombre d'habitants à ce moment là.\n(E) Le nombre d'invalides permanents pendant une certaine période, divisé par le nombre d'habitants à la fin de cette période.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les différentes propositions concernant les fonctions biologiques de l'hémoglobine, une seule est fausse. Laquelle?",
+        "options": "(A) Elle joue un rôle de tampon.\n(B) Elle assure le transport de la bilirubine.\n(C) Elle amène l'oxygène des poumons aux tissus.\n(D) Elle peut fixer l'oxyde de carbone.\n(E) Elle transporte le gaz carbonique des tissus aux poumons.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant le principe de la réaction du VDRL, quelle est celle qui est exacte?",
+        "options": "(A) Inhibition de l'hémagglutination.\n(B) Agglutination conditionnée.\n(C) Agglutination de bactéries.\n(D) Précipitation.\n(E) Immunodiffusion radiale.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est fausse. Indiquez laquelle? Le soluté injectable d'hydroxyéthylamidon est un substitut du plasma humain. Il a les caractéristiques suivantes:",
+        "options": "(A) Bonne stabilité à l'autoclavage.\n(B) Présente un risque de réaction anaphylactique.\n(C) Provoque une hyperglycémie.\n(D) Provoque une augmentation transitoire de l'amylasémie.\n(E) N'apporte aucun facteur de la coagulation.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Quel est le paramètre qui permet de différencier une insuffisance rénale aiguë fonctionnelle d'une insuffisance rénale aiguë organique?",
+        "options": "(A) Urée plasmatique.\n(B) Créatininémie.\n(C) Phosphatémie.\n(D) Augmentation de l'urée plasmatique plus importante que celle de la créatininémie.\n(E) Clairance de la créatinine.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant l'angiotensine II, une seule est exacte. Laquelle?",
+        "options": "(A) Elle est essentiellement produite par l'appareil juxtaglomérulaire.\n(B) C'est un décapeptide.\n(C) Elle augmente l'excrétion urinaire du sodium.\n(D) Elle stimule le centre hypothalamique de la soif.\n(E) Elle inhibe la sécrétion d'aldostérone.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Dans la liste suivante, quel est l'antibiotique le plus approprié pour traiter une méningite néo-natale à Listeria monocytogenes ?",
+        "options": "(A) Ampicilline.\n(B) Ceftriaxone.\n(C) Céfotaxime.\n(D) Erythromycine.\n(E) Clindamycine.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi ces cinq antihypertenseurs, un seul agit au niveau central. Lequel?",
+        "options": "(A) Clonidine (CATAPRESSAN®).\n(B) Métoprolol (LOPRESSOR®).\n(C) Enalapril (RENITEC®).\n(D) Nifédipine (ADALATE®).\n(E) Furosémide (LASILIX®).",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Quel est le trouble qui n'est pas observé lors d'une intoxication par les salicylés ?",
+        "options": "(A) Nausées.\n(B) Sueurs.\n(C) Cécité.\n(D) Bourdonnements d'oreilles.\n(E) Hyperthermie.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est fausse. Laquelle? La rifampicine :",
+        "options": "(A) Colore les lentilles de contact en orangé.\n(B) Est un puissant inducteur enzymatique.\n(C) Est active sur Treponema pallidum.\n(D) Est active sur Mycobacterium bovis.\n(E) Est administrée en une seule prise orale en dehors des repas.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propriétés pharmacologiques suivantes concernant les benzodiazépines, une seule n'est pas exacte. Laquelle?",
+        "options": "(A) Anxiolytiques.\n(B) Myorelaxantes.\n(C) Stimulantes respiratoires.\n(D) Anticonvulsivantes.\n(E) Hypnotiques.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant les recherches qui sont prescrites pour le dépistage de l'hépatite C, une seule est exacte. Laquelle?",
+        "options": "(A) Ac anti-HBs.\n(B) Ag carcino-embryonnaire.\n(C) Ag HBe.\n(D) Ac anti- VHC.\n(E) Ac anti-HBe.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Donner la proposition exacte concernant la thrombopénie de type II (immunoallergique ) induite par l'héparine:",
+        "options": "(A) Elle survient toujours après plus de 20 jours de traitement par l'héparine.\n(B) Elle n'entraîne jamais de manifestations cliniques.\n(C) Elle survient chez moins de 5 % des patients traités par les héparines.\n(D) Elle ne nécessite pas d'arrêt du traitement par l'héparine.\n(E) Elle contre-indique un relais par les antivitamines K.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Chez une femme de 66 ans, alcoolique, le bilan lipidique est le suivant: Se Cholestérol total: 8,8 mmol/L; Se Triglycérides: 5,8 mmol/L. De quel type de dyslipoprotéinémie s'agit-il le plus vraisemblablement?",
+        "options": "(A) Type IV.\n(B) Type IIa.\n(C) Type IIb.\n(D) Type III.\n(E) Type I.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est exacte. Indiquer laquelle ? Un dosage par photométrie de flamme par émission:",
+        "options": "(A) Met en oeuvre la mesure de l'intensité lumineuse d'un rayonnement polychromatique.\n(B) Nécessite une lampe à cathode creuse.\n(C) Nécessite l'ionisation des atomes dans la flamme.\n(D) Est applicable à la détermination du fer sérique.\n(E) Est applicable au suivi thérapeutique d'un traitement par le lithium.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, laquelle concerne les syndromes mononucléosiques?",
+        "options": "(A) Le nombre des leucocytes est généralement diminué.\n(B) Les polynucléaires sont hypersegmentés.\n(C) L'aspect du frottis sanguin est monomorphe.\n(D) Le frottis sanguin montre de grands lymphocytes hyperbasophiles.\n(E) La sérologie Epstein Barr Virus (EBV) est toujours positive.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les caractéristiques pharmacocinétiques suivantes, quelle est celle qui renseigne sur la vitesse d'absorption (résorption) d'un médicament?",
+        "options": "(A) Volume apparent de distribution.\n(B) Demi-vie d'élimination plasmatique.\n(C) Clairance plasmatique.\n(D) Temps de résidence moyen.\n(E) Délai d'obtention du pic.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Tous les composés biochimiques suivants font partie du catabolisme de l'hémoglobine, sauf un. Lequel?",
+        "options": "(A) Bilirubine.\n(B) Porphobilinogène.\n(C) Biliverdinoglobine.\n(D) Biliverdine.\n(E) Choléglobine.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est exacte. Laquelle? Les dérivés nitrés tels que la trinitrine ou le dinitrate d'isosorbide, permettent la formation de NO (monoxyde d’azote) grâce à l’action catalytique de la ou du :",
+        "options": "(A) Monoamine oxydase.\n(B) Glucuronyl-transférase.\n(C) Glutathion-S-transférase.\n(D) Guanylate cyclase.\n(E) Protéine Kinase A (PKA).",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les causes de décès des hommes adultes vivant en France, quelle est la cause la plus fréquente?",
+        "options": "(A) Maladies cardiovasculaires.\n(B) Morts violentes.\n(C) Tumeurs.\n(D) Maladies respiratoires.\n(E) Maladies digestives.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, donner celle qui est exacte. Des phénomènes dyskinétiques aigus s'observent avec:",
+        "options": "(A) Les antidépresseurs imipraminiques.\n(B) Les IMAO.\n(C) Les benzodiazépines.\n(D) Les neuroleptiques.\n(E) Les sels de lithium.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les phénomènes suivants, tous sont synchrones du premier bruit cardiaque sauf un, lequel?",
+        "options": "(A) Fermeture des valvules auriculo-ventriculaires.\n(B) Remplissage ventriculaire rapide.\n(C) Contraction ventriculaire isométrique.\n(D) Contraction ventriculaire isotonique.\n(E) Ouverture des valvules sigmoïdes.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, donner celle qui est exacte. En spectrophotométrie d'adsorption moléculaire, une absorbance de 1 correspond à une absorption du faisceau incident par le composé présent dans la cuve de :",
+        "options": "(A) 100 %.\n(B) 90 %.\n(C) 50 %.\n(D) 40 %.\n(E) 10 %.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Quelle est la première anomalie biochimique détectable lors d'une hépatite virale aiguë?",
+        "options": "(A) Elévation de la bilirubine conjuguée.\n(B) Elévation de la phosphatase alcaline.\n(C) Augmentation des gamma-globulines.\n(D) Elévation de l'alanine aminotransférase (ALAT) ou TGP.\n(E) Elévation de la gamma-glutamyltransférase.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est exacte. Laquelle? Une sténose de la valve bicuspide cardiaque peut entraîner un reflux sanguin vers:",
+        "options": "(A) La circulation coronaire.\n(B) Les veines caves.\n(C) La circulation pulmonaire.\n(D) Le ventricule gauche.\n(E) Le ventricule droit.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant l'anguillulose, une seule est fausse. Laquelle?",
+        "options": "(A) C'est une parasitose opportuniste chez le sidéen.\n(B) Elle se contracte par passage transcutané des larves infestantes.\n(C) Elle peut persister plus de 10 ans..\n(D) Elle est accompagnée d'une hyperéosinophilie sanguine fluctuante.\n(E) Elle se traite par l'ivermectine (STROMECTOL®)..",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Laquelle de ces affections s'accompagne habituellement d'une élévation du nombre des réticulocytes?",
+        "options": "(A) Carence en folates.\n(B) Leucémie aiguë myéloblastique de type 1 (LAM 1).\n(C) Maladie de Minkowski-Chauffard.\n(D) Agranulocytose.\n(E) Aplasie médullaire.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi ces aérosols-doseurs utilisés dans la maladie asthmatique, lequel est un bêta-2 stimulant sélectif?",
+        "options": "(A) Fénotérol (BEROTEC®).\n(B) Oxitropium (TERSIGAT®).\n(C) Orciprénaline (ALUPENT®).\n(D) Béclométasone (BÉCOTIDE®).\n(E) Budésonide (PULMICORT®).",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Quelle est la proposition exacte? Les benzodiazépines potentialisent la transmission gabaergique :",
+        "options": "(A) En tant que ligand agoniste au niveau des récepteurs GABAb de l'acide gamma-aminobutyrique.\n(B) En tant que ligand agoniste au niveau des récepteurs GABAa de l'acide gamma-aminobutyrique.\n(C) Par effet agoniste allostérique vis-à-vis des récepteurs GABAb.\n(D) Par effet agoniste allostérique vis-à-vis des récepteurs GABAa.\n(E) En tant qu'antagoniste des récepteurs GABAb.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est inexacte, laquelle? La polarographie classique:",
+        "options": "(A) Est une méthode d'analyse quantitative.\n(B) Est une méthode d'analyse qualitative.\n(C) Procède par réduction cathodique.\n(D) Est une méthode voltampérométrique.\n(E) Utilise un barreau d'argent comme électrode indicatrice.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Pseudomonas aeruginosa est naturellement résistant à l'un des antibiotiques suivants, lequel?",
+        "options": "(A) L'amoxicilline.\n(B) La ciprofloxacine.\n(C) La norfloxacine.\n(D) L'amikacine.\n(E) La ceftazidime.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Indiquer, parmi les protéines, celle dont la concentration plasmatique est diminuée lors d'une hémolyse intravasculaire :",
+        "options": "(A) Albumine.\n(B) Préalbumine.\n(C) Orosomucoïde.\n(D) Transferrine.\n(E) Haptoglobine.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant les titrations potentiométriques, une seule est exacte, laquelle?",
+        "options": "(A) La solution à doser est très diluée 10-4 à 10-6 M.\n(B) Le courant est enregistré en fonction du potentiel appliqué.\n(C) L'électrode de verre est l'électrode universelle.\n(D) Les électrodes ioniques sont spécifiques.\n(E) Le point équivalent est le point d'inflexion d'une sigmoïde.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Chacune des atteintes suivantes est cause d'une hyperlipoprotéinémie secondaire, sauf:",
+        "options": "(A) Hypocorticisme.\n(B) Hypothyroïdisme.\n(C) Syndrome néphrotique.\n(D) Cholestase.\n(E) Diabète sucré.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant la syphilis, quelle est celle qui est exacte?",
+        "options": "(A) Elle est due à une bactérie immobile.\n(B) Son diagnostic peut être effectué après culture du germe en milieux riches.\n(C) La contamination peut être liée à la piqûre d'un insecte vecteur.\n(D) C'est une maladie strictement humaine.\n(E) La transmission de l'agent infectieux se fait essentiellement par transfusion sanguine.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant le métabolisme des lipoprotéines, indiquer l'affirmation exacte:",
+        "options": "(A) L'apolipoprotéine B48 est principalement synthétisée par le foie.\n(B) La LCA T (lécithine cholestérol acyl transférase ) a comme principal substrat le cholestérol des HDL (lipoprotéines de haute densité ).\n(C) La LPL (lipoprotéine lipase ) est essentiellement localisée dans le tissu hépatique.\n(D) L'apolipoprotéine C-III est le principal activateur de la LPL.\n(E) L'ABC 1 (\"ATP-binding cassette protein-l \" ) est une protéine de transport des triglycérides.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est fausse; laquelle? La chlorpromazine (LARGACTIL®) :",
+        "options": "(A) Possède une structure phénothiazinique.\n(B) Engendre des hypertensions artérielles.\n(C) Provoque une sécheresse buccale.\n(D) Bloque les récepteurs dopaminergiques centraux.\n(E) Entraîne des dyskinésies bucco-faciales.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, indiquer celle qui est exacte. Les métabolites glucuronoconjugués des médicaments ont, par rapport à leurs formes non conjuguées:",
+        "options": "(A) Un plus grand volume de distribution.\n(B) Une plus grande clairance rénale.\n(C) Une plus forte fixation aux protéines plasmatiques.\n(D) En général, des effets pharmacodynamiques plus intenses.\n(E) Sont plus lipophiles.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les médiateurs suivants, indiquer celui qui inhibe les contractions antrales gastriques.",
+        "options": "(A) Acétylcholine.\n(B) Motiline.\n(C) Gastrine.\n(D) Sécrétine.\n(E) Histamine.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi ces antifongiques, il en est un qui suscite rapidement de nombreuses résistances vis-à-vis des levures pathogènes. Lequel?",
+        "options": "(A) Amphotéricine B.\n(B) Griséofulvine.\n(C) 5-fluoro-cytosine.\n(D) Econazole.\n(E) Fluconazole.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "L'exsanguino transfusion est indiqué dans un type d'intoxication aiguë, lequel?",
+        "options": "(A) Méthanol.\n(B) Cyanures.\n(C) Agents méthémoglobinisants.\n(D) Métaux lourds.\n(E) Monoxyde de carbone.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les affirmations suivantes, l'une d'entre elles est inexacte. Dans le cadre de leur métabolisme général, les acides aminés:",
+        "options": "(A) Servent avant tout a la biosynthèse des protéines de l'espèce.\n(B) Représentent une source d'énergie lorsqu'ils sont en excès.\n(C) Sont oxydés en C02 dans le cycle tricarboxylique de Krebs.\n(D) Ne perturbent pas la biosynthèse des protéines lorsque l'un d'entre eux est absent.\n(E) Peuvent être transformés en glucose par néoglucogénése.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "L'azote organique est éliminé de l'organisme sous différentes formes. Quelle est la forme éliminée de façon prépondérante par voie urinaire ?",
+        "options": "(A) Urée.\n(B) Créatinine.\n(C) Acide urique.\n(D) Ammonium.\n(E) Acides aminés.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, quelle est celle qui s'applique à Pseudomonas aeruginosa ?",
+        "options": "(A) C'est une enterobactérie.\n(B) C'est une bactérie aéro-anaérobie facultative.\n(C) C'est une bactérie sensible aux aminopénicillines.\n(D) Il fait partie de la flore buccale commensale du sujet sain.\n(E) C'est un agent d'infections nosocomiales.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est fausse. Laquelle? L'éthanol:",
+        "options": "(A) Est métabolisé dans le foie par l'alcool déshydrogénase (ADH).\n(B) Peut être absorbé par voie percutanée.\n(C) Se dilue dans l'eau de l'organisme.\n(D) Peut provoquer une hypoglycémie chez l'enfant lors d'une intoxication aïguë.\n(E) A un métabolisme moyen, chez le buveur occasionnel adulte, de 1 à 1,25 g/kg par heure.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les affirmations suivantes concernant le peptide C, quelle est celle qui est fausse?",
+        "options": "(A) La production endogène de peptide C est équimolaire à la sécrétion insulinique.\n(B) Le dosage de peptide C peut être réalisé dans le sérum ou les urines.\n(C) Le peptide C est constitutif de la pro-insuline.\n(D) Comme l'insuline, le peptide C se fixe sur les sites récepteurs des cellules-cibles.\n(E) Dans le diabète insulinodépendant, le taux du peptide C est fortement abaissé.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, laquelle est exacte? Le franchissement de la barrière hématoencéphalique par les xénobiotiques est déterminé par l'une des propriétés physicochimiques suivantes:",
+        "options": "(A) Le caractère acide.\n(B) La forme cristalline.\n(C) La liposolubilité.\n(D) Le pouvoir oxydant.\n(E) La présence de liaisons insaturées.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Pour une maladie, que représente le numérateur d'un taux d'incidence?",
+        "options": "(A) L'effectif total des maladies durant la période d'observation.\n(B) L'effectif des sujets exposés à la maladie.\n(C) L'effectif de la population observée.\n(D) L'effectif des malades déjà présents avant le début de l'observation.\n(E) L'effectif des nouveaux cas apparus durant la période d'observation.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, indiquer celle qui est exacte. Le praziquantel (BILTRICIDE®) est le médicament utilisé contre :",
+        "options": "(A) Strongyloides stercoralis.\n(B) Schistosoma mansoni.\n(C) Cryptococcus neoformans.\n(D) Fasciola hepatica.\n(E) Ascaris lumbricoides.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est fausse, Laquelle? la structure de l'hémoglobine Al comprend:",
+        "options": "(A) 2 chaînes delta de globine.\n(B) 4 atomes de fer.\n(C) 2 chaînes alpha de globine.\n(D) 4 molécules d'hème.\n(E) 2 chaînes bêta de globine.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant les alcaloses métaboliques décompensées, une seule est fausse. Laquelle?",
+        "options": "(A) pH sanguin augmenté.\n(B) bicarbonates plasmatiques augmentés.\n(C) pC02 artérielle abaissée.\n(D) hypokaliémie.\n(E) hypochlorémie.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est exacte, Laquelle? l'enzyme qui clive les IgG pour donner du F(ab')2 est:",
+        "options": "(A) papaïne.\n(B) pepsine.\n(C) carboxypeptidase A.\n(D) pronase.\n(E) chymotrypsine.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, quelle est-celle qui s'applique aux antagonistes des récepteurs muscariniques?",
+        "options": "(A) ils s'opposent à la transmission ganglionnaire.\n(B) ils sont hypotenseurs.\n(C) ils entraînent un myosis.\n(D) ls exercent un effet antispasmodique au niveau du tube digestif.\n(E) ils entraînent une bronchoconstriction.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Cochez la proposition s'appliquant aux infections à cytomégalovirus :",
+        "options": "(A) Elles sont rares au cours des hémopathies malignes.\n(B) Elles sont transmissibles par voie génitale.\n(C) Elles sont transmises par les eaux de boisson.\n(D) Elles sont exceptionnelles au cours du syndrome d'immuno-déficience acquise (SIDA).\n(E) Leur diagnostic se fait uniquement par la recherche d'anticorps sériques.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les médicaments anticancéreux suivants, quel est celui qui n'est pas un antimétabolite ?",
+        "options": "(A) 5-Fluoro-uracile (5 FU).\n(B) 6-Mercaptopurine (PURINETHOL).\n(C) Méthotrexate (METHOTREXATE).\n(D) Cytarabine (ARACYTINE).\n(E) Etoposide (VEPESIDE).",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, concernant la pharmacocinétique des médicaments, une seule est exacte : laquelle ?",
+        "options": "(A) La biotransformation des médicaments à fort coefficient d'extraction hépatique est indépendante du débit sanguin hépatique.\n(B) La clairance totale relie la concentration plasmatique à la vitesse d'élimination du médicament.\n(C) Un médicament ayant une clairance égale à 250ml/min est strictement éliminé par filtration glomérulaire.\n(D) le facteur de biodisponibilité (F) d'un médicament administré per os dépend uniquement de la résorption gastro-intestinale.\n(E) Un important taux de fixation du médicament aux protéines circulantes (>90%) est toujours à l'origine d'interactions médicamenteuses.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est exacte, laquelle? Un composé organique - qui provoque la réduction du complexe HgI42- en mercure métal - qui réagit avec la dinitro-2,4 phénylhydrazine pour former un composé cristallisé rouge, possède une fonction:",
+        "options": "(A) Alcool I.\n(B) Alcool II.\n(C) Alcool III.\n(D) Aldéhyde.\n(E) Cétone.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant la contamination humaine par Entamoeba histolytica, une seule est exacte. Laquelle? Elle se réalise:",
+        "options": "(A) A la suite d'une piqûre d'insecte hématophage.\n(B) Après une morsure de renard.\n(C) Par ingestion de kystes.\n(D) Par contact avec un trophozoïte.\n(E) Par pénétration transcutanée d'une cercaire.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les médicaments indiqués ci-dessous, quel est celui qui n'entre pas dans la classe des antimalariques?",
+        "options": "(A) Chloroquine.\n(B) Méfloquine.\n(C) Métronidazole.\n(D) Quinine.\n(E) Association sulfamide-pyriméthamine.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les examens suivants, quel est celui qu'il n'y a pas lieu de pratiquer dans le cadre du bilan diagnostic d'une leucémie myéloïde chronique?",
+        "options": "(A) Le caryotype des cellules médullaires.\n(B) Le myélogramme.\n(C) L'adénogramme.\n(D) Le dosage d'acide urique.\n(E) L'hémogramme.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est exacte. Laquelle? Un hétéroside cardiotonique provoque:",
+        "options": "(A) Un effet inotrope positif.\n(B) Un effet dromotrope positif.\n(C) Un effet chronotrope positif.\n(D) Une diminution de la diurèse.\n(E) Une diminution du débit cardiaque.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant Candida albicans, une seule est fausse. Laquelle?",
+        "options": "(A) Saprophyte digestif de l'homme.\n(B) Sensible à l'amphotéricine B (FUNGIZONE).\n(C) Responsable de muguet buccal.\n(D) Capable de chlamydiosporulation in vivo.\n(E) Anaérobie.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, cocher celle qui est exacte. Chez les sujets âgés de plus de 65 ans et vivant en France, la cause la plus fréquente de décès est:",
+        "options": "(A) Accidents de la vie quotidienne.\n(B) Maladies cardiovasculaires.\n(C) Tumeurs.\n(D) Maladies respiratoires.\n(E) Maladies digestives.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant Mycobacterium tuberculosis, laquelle est fausse?",
+        "options": "(A) C'est un bacille acido-alcoolo-résistant.\n(B) C'est un hôte normal du tube digestif de l'homme.\n(C) Il ne cultive pas sur gélose enrichie de sang.\n(D) C'est un agent de méningite.\n(E) Il existe une prophylaxie vaccinale des infections qu'il provoque.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est fausse. Laquelle? Le plomb:",
+        "options": "(A) A l'état de poussières est bien absorbé par voie pulmonaire.\n(B) Dans le sang existe en majorité lié aux protéines.\n(C) Passe à travers le placenta.\n(D) Est un inhibiteur de la delta ala déshydratase nécessaire à la synthèse de l'hème.\n(E) Quand il est absorbé dans l'organisme, le plomb est éliminé essentiellement par voie rénale.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant l'expression d'un gène codant une protéine, laquelle est exacte?",
+        "options": "(A) La séquence poly A des ARNm est synthétisée par une poly A polymérase.\n(B) Le signal de polyadénylation (AATAAA) est une séquence non transcrite.\n(C) L'intégrité du dinucléotide GT au début de l'intron n'est pas indispensable à l'épissage de l'ARN prémessager.\n(D) La TATA box est une séquence transcrite.\n(E) La transcription débute au codon d'initiation de la traduction.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant les glandes surrénales, une seule est exacte, laquelle?",
+        "options": "(A) La synthèse du cortisol nécessite l'intervention d'une 17 hydroxylase.\n(B) La synthèse de l'aldostérone se fait dans la zone réticulée de la glande surrénale.\n(C) Le cortisol suit un rythme nycthéméral avec un nadir juste avant le réveil.\n(D) Le récepteur au cortisol est un récepteur membranaire qui, une fois activé, vient se fixer sur un accepteur nucléaire.\n(E) Le cortisol exerce un rétrocontrôle positif sur la sécrétion hypophysaire d'ACTH.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, une seule est inexacte, laquelle? Pour préparer une solution tampon aqueuse on peut utiliser:",
+        "options": "(A) Du chlorure de sodium.\n(B) Du tétraborate de sodium.\n(C) Du monohydrogénophosphonate de sodium.\n(D) De l'acétate de sodium.\n(E) Du dihydrogénophosphonate de sodium.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi ces précautions d'emploi de la théophylline, laquelle est fausse?",
+        "options": "(A) Troubles du rythme cardiaque.\n(B) Hypotension.\n(C) Insuffisance hépatique.\n(D) Ulcère gastrique.\n(E) Terrain psychique précaire.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant l'isoniazide (RIMIFON®) une seule est fausse, laquelle?",
+        "options": "(A) Il s'agit d'un antituberculeux majeur.\n(B) Son spectre est très étroit.\n(C) Il est métabolisé par glucuronoconjugaison.\n(D) Il est hépatotoxique.\n(E) Son association est déconseillée avec la carbamazépine.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant la sécrétion d'acide gastrique, une seule est exacte. Laquelle?",
+        "options": "(A) Elle est produite par les cellules principales des glandes fundiques.\n(B) Elle fait intervenir une anhydrase carbonique.\n(C) Elle est freinée par la gastrine.\n(D) Elle fait intervenir une pompe sodium/proton ATPase.\n(E) Elle est contrôlée par les plexus nerveux intrinsèques.",
+        "answer": "(B)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, donner la (les) réponse(s) exacte(s). Les centres régionaux de pharmacovigilance ont pour mission de recueillir et évaluer les déclarations des effets indésirables concernant les produits suivants:",
+        "options": "(A) Les médicaments.\n(B) Les dispositifs médicaux.\n(C) Les réactifs.\n(D) Les substances toxiques.\n(E) Les produits cosmétiques.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Concernant l'intoxication aiguë par le phénobarbital, quelle(s) est (sont) la (les) proposition(s) correcte(s)?",
+        "options": "(A) Lélimination rénale est minime.\n(B) Le coma est précoce après la prise du médicament.\n(C) Le risque de l'intoxication est représenté par un arrêt respiratoire précoce.\n(D) La diurèse osmotique alcaline est indiquée.\n(E) L'hémodialyse n'est d'aucune utilité.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les agents suivants, quel(s) est (sont) celui (ceux) utilisé(s) pour la désinfection terminale des locaux ?",
+        "options": "(A) Le formol.\n(B) L'hypochlorite de sodium.\n(C) L'acide peracétique.\n(D) L'oxyde d'éthylène.\n(E) Le métabisulfite de sodium.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, donner celle(s) qui est (sont) exacte(s). Pour que la pharmacocinétique d'un médicament soit linéaire, il faut que :",
+        "options": "(A) Sa clairance soit proportionnelle à la dose.\n(B) Son coefficient de biodisponibilité soit proportionnel à la dose.\n(C) Son volume de distribution soit proportionnel à la dose.\n(D) La quantité éliminée sous forme inchangée dans les urines soit proportionnelle à la dose.\n(E) La fraction de la dose métabolisée soit proportionnelle à la dose.",
+        "answer": "(D)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Quelle(s) est (sont) parmi les propositions suivantes, la (les) complication(s) survenant habituellement au cours d'une maladie de Vaquez ?",
+        "options": "(A) Fibrose médullaire.\n(B) Apparition d'un chromosome Philadelphie.\n(C) Coagulation intravasculaire disséminée.\n(D) Infarctus splénique.\n(E) Anémie hémolytique auto-immune.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes, indiquer celle(s) qui est (sont) exacte(s). Le furosémide (LASILIX) :",
+        "options": "(A) Possède une structure cyclopentano-perhydro-phénanthrène.\n(B) Est porteur d'une fonction sulfamide N-substituée.\n(C) Est un diurétique d'épargne potassique.\n(D) Agit principalement au niveau de la branche descendante de l'anse de Henlé.\n(E) Est employé dans le traitement d'urgence de l'oedème aigu du poumon.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi les propositions suivantes concernant le domaine CH2 de la chaîne lourde d'une IgG, laquelle (lesquelles) est (sont) exacte(s).",
+        "options": "(A) Appartient au fragment Fab.\n(B) Appartient au fragment Fd.\n(C) Appartient au fragment Fc.\n(D) Est impliqué directement dans le paratope.\n(E) Est situé à l'extrêmité COOH-terminale.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Quel(s) élément(s) ne peut (peuvent) pas être dosé(s) par photométrie de flamme ?",
+        "options": "(A) Aluminium.\n(B) Sodium.\n(C) Potassium.\n(D) Césium.\n(E) Lithium.",
+        "answer": "(A)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Donner la ou les proposition(s) exacte(s). Un sujet du groupe AB présente :",
+        "options": "(A) Des anticorps naturels anti-A.\n(B) Des anticorps naturels anti-B.\n(C) Des anticorps naturels anti-H.\n(D) Des anticorps naturels anti-A+B.\n(E) Aucun anticorps naturel régulier.",
+        "answer": "(E)",
+        "source": "frenchmedmcqa"
+    },
+    {
+        "question": "Parmi ces vaccinations, quelle(s) est (sont) célle(s) qui est (sont) recommandée(s) aux personnes travaillant en contact avec les eaux usées?",
+        "options": "(A) Haemophilus influenzae.\n(B) Hépatite B.\n(C) Hépatite A.\n(D) BCG.\n(E) Grippe.",
+        "answer": "(C)",
+        "source": "frenchmedmcqa"
+    }
+]

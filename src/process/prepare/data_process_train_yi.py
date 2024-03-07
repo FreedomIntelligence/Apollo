@@ -1,8 +1,7 @@
 import os
-os.environ["WANDB_API_KEY"]='3bf17abb57350d9a57be1dd3d2c4354780849cc6'
+os.environ["WANDB_API_KEY"] = 'your key'
 import copy
 import json
-import os
 import torch
 import logging
 import argparse
@@ -88,49 +87,77 @@ class SFT_data(torch.utils.data.Dataset):
         # you need to set
         # When you want random sampling, please set the same data priority
         self.data_priority = {
-            'Medical_Web_en': 16,
-            'Medical_Web_zh': 16,
-            'Medical_Paper_en': 16,
-            'Medical_Paper_zh': 16,
-            'Medical_Wiki_en': 16,
-            'Medical_Wiki_zh': 16,
-            'Medical_Guideline_en': 16,
-            'Medical_Guideline_zh': 16,
-            'Medical_Book_en': 16,
-            'Medical_Book_zh': 16,
-            'Medical_Exam_en': 2,
-            'Medical_Exam_zh': 2,
-            'Medical_Patient_en': 2,
-            'Medical_Patient_zh': 2,
-            'General_en': 8,
-            'General_zh': 8,
-            'Code_en': 16,
-            'Code_zh': 16,
-            'Math_en': 16,
-            'Math_zh': 16,
+            'medicalWeb_en_qa': 16,
+            'medicalWeb_es_qa': 16,
+            'medicalWeb_zh_qa': 16,
+            'medicalPaper_en_qa': 16,
+            'medicalPaper_es_qa': 16,
+            'medicalPaper_fr_qa': 16,
+            'medicalPaper_zh_qa': 16,
+            'medicalWiki_en_qa': 16,
+            'medicalWiki_fr_qa': 16,
+            'medicalWiki_hi_qa': 16,
+            'medicalGuideline_en_qa': 16,
+            'medicalBook_en_qa': 16,
+            'medicalBook_zh_qa': 16,
+            'medicalWiki_zh_xiaohe_qa': 16,
+            'medicalGuideline_zh_zhyx_qa': 16,
+            'medicalExam_zh_tiku_qa': 16,
+            'medbench': 2,
+            'medicalExam_en': 2,
+            'medicalExam_zh': 2,
+            'medicalExam_fr': 2,
+            'medicalExam_es': 2,
+            'medicalPatient_ar': 2,
+            'medicalPatient_en': 2,
+            'medicalPatient_zh': 2,
+            'general_hi': 2,
+            'general_fr': 2,
+            'general_es': 2,
+            'general_en': 2,
+            'general_zh': 2,
+            'general_ar': 2,
+            'code_en': 16,
+            'code_zh': 16,
+            'math_en': 16,
+            'math_zh': 16,
         }
         
         self.data_epoch = {
-            'Medical_Web_en': 2,
-            'Medical_Web_zh': 1,
-            'Medical_Paper_en': 1,
-            'Medical_Paper_zh': 2,
-            'Medical_Wiki_en': 2,
-            'Medical_Wiki_zh': 1,
-            'Medical_Guideline_en': 1,
-            'Medical_Guideline_zh': 2,
-            'Medical_Book_en': 3,
-            'Medical_Book_zh': 1,
-            'Medical_Exam_en': 1,
-            'Medical_Exam_zh': 1,
-            'Medical_Patient_en': 2,
-            'Medical_Patient_zh': 2,
-            'General_en': 1,
-            'General_zh': 2,
-            'Code_en': 1,
-            'Code_zh': 2,
-            'Math_en': 1,
-            'Math_zh': 1,
+            'medicalWeb_en_qa': 1,
+            'medicalWeb_es_qa': 1,
+            'medicalWeb_zh_qa': 1,
+            'medicalPaper_en_qa': 1,
+            'medicalPaper_es_qa': 1,
+            'medicalPaper_fr_qa': 1,
+            'medicalPaper_zh_qa': 1,
+            'medicalWiki_zh_xiaohe_qa': 1,
+            'medicalGuideline_zh_zhyx_qa': 1,
+            'medicalExam_zh_tiku_qa': 1,
+            'medicalWiki_en_qa': 1,
+            'medicalWiki_fr_qa': 1,
+            'medicalWiki_hi_qa': 1,
+            'medicalGuideline_en_qa': 1,
+            'medicalBook_en_qa': 1,
+            'medicalBook_zh_qa': 1,
+            'medbench': 2,
+            'medicalExam_en': 2,
+            'medicalExam_zh': 2,
+            'medicalExam_fr': 2,
+            'medicalExam_es': 2,
+            'medicalPatient_ar': 2,
+            'medicalPatient_en': 2,
+            'medicalPatient_zh': 2,
+            'general_hi': 2,
+            'general_fr': 2,
+            'general_es': 2,
+            'general_en': 2,
+            'general_zh': 2,
+            'general_ar': 2,
+            'code_en': 1,
+            'code_zh': 1,
+            'math_en': 1,
+            'math_zh': 1,
         }
 
         self.weights = []
@@ -197,7 +224,7 @@ class SFT_data(torch.utils.data.Dataset):
 
 
 def preprocess(args):
-    tokenizer = AutoTokenizer.from_pretrained(args.model_path, use_fast=False)
+    tokenizer = AutoTokenizer.from_pretrained(args.model_path, use_fast=False, trust_remote_code=True)
     train_dataset = SFT_data(args, tokenizer)
 
     sampler = WeightedRandomSampler(train_dataset.weights, num_samples=train_dataset.sample_num(), replacement=False)

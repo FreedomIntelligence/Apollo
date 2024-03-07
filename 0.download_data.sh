@@ -1,32 +1,26 @@
 # download ApolloCorpus
-mkdir metadata
+
 cd metadata
 wget https://huggingface.co/datasets/FreedomIntelligence/ApolloCorpus/resolve/main/ApolloCorpus.zip
 unzip ApolloCorpus.zip
+
+# Prepare Data for Mix training
+mkdir mixTrain
+
+
 cd train/pretrain
-
-qa_dir="qa"
-pretrain_sft_dir="pretrain_sft"
-
-if [ ! -d "$qa_dir" ]; then
-    mkdir -p "$qa_dir"
-fi
-
-if [ ! -d "$pretrain_sft_dir" ]; then
-    mkdir -p "$pretrain_sft_dir"
-fi
-
+# Mixtraining Only use QA pairs in Pretrain
 for file in *; do
     if [[ $file == *_qa.json ]]; then
-        mv "$file" "$qa_dir/"
-    elif [[ $file == *_text.json ]]; then
-        mv "$file" "$pretrain_sft_dir/"
-    fi
+        cp "$file" "../mixTrain/"
 done
-mv pretrain_sft/ ../
-mv qa/ ../
 cd ../
-rm pretrain
 
-mv sft/ all_sft/
+# copy all file from sft to mix_train
+mv sft/* mixTrain/
+
+# merge all the file from mix_train directory to json
+python merge_json_train.py
+cd ../
+
 

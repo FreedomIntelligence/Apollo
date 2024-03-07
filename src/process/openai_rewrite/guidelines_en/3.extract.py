@@ -2,18 +2,18 @@ import json
 
 
 def extract_and_save(input_jsonl, output_json):
-    # 创建一个空列表用于存储提取的数据
+    # Create an empty list to store the extracted data
     extracted_data = []
     train_data = []
     count = 0
-    # 逐行读取JSONL文件并提取指定字段
+    # Read the JSONL file line by line and extract the specified fields
     with open(input_jsonl, "r", encoding="utf-8") as file:
         for line in file:
             json_data = json.loads(line)
             if len(json_data.get("model_answer", "")) < 32:
                 continue
 
-            # 提取指定字段
+            #Extract specified fields
             extracted_item = {
                 "question": json_data.get("model_question", ""),
                 "answer": json_data.get("model_answer", ""),
@@ -25,12 +25,12 @@ def extract_and_save(input_jsonl, output_json):
                 json_data.get("model_answer", ""),
             ]
 
-            # 将提取的数据添加到列表中
+            # Add the extracted data to the list
             extracted_data.append(extracted_item)
             train_data.append(list_item)
             count += 1
 
-    # 将提取的数据写入新的JSON文件
+    # Write the extracted data into a new JSON file
     print(f"sum_count:{count}")
     with open(output_json, "w", encoding="utf-8") as output:
         json.dump(extracted_data, output, indent=2, ensure_ascii=False)
@@ -38,10 +38,10 @@ def extract_and_save(input_jsonl, output_json):
         json.dump(train_data, output, indent=2, ensure_ascii=False)
 
 
-# 指定输入JSONL文件和输出JSON文件名
-input_jsonl = "./data/3.guideline_en_aftgpt_prepared_aftgpt.jsonl"
-output_json = "./data/4.guideline_en_extracted.json"
-train_json = "./data/4.guideline_en_train.json"
+#Specify the input JSONL file and output JSON file name
+input_jsonl = "./data/3.dev_aftgpt_prepared_aftgpt.jsonl"
+output_json = "./data/4.dev_extracted.json"
+train_json = "./data/4.dev_train.json"
 
-# 调用提取和保存函数
+# Call the extraction and saving functions
 extract_and_save(input_jsonl, output_json)

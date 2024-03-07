@@ -1,7 +1,7 @@
 """Code for finetune_medbase"""
 import os
 os.environ['WANDB_DISABLE_CODE'] = 'true'
-os.environ["WANDB_API_KEY"]=''#xidong账号log
+os.environ["WANDB_API_KEY"]='your_key'
 import json
 import torch
 import logging

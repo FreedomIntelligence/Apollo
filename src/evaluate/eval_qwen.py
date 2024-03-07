@@ -62,17 +62,29 @@ def get_response(batch_input_ids, batch_output_ids, tokenizer, num_return):
     return responses_list
 
 def extract_and_choose_answer(pattern, model_answer):
+    if '\n' in model_answer:
+        model_answer_split = model_answer.split('\n')
+        for model_answer_i in model_answer_split:
+            if len(model_answer_i):
+                model_answer = model_answer_i
+                break
     matches = re.findall(pattern, model_answer)
     option_count = {}
     for match in matches:
         option_count[match.upper()] = option_count.get(match.upper(), 0) + 1
 
     if not option_count:
+        # else use loose pattern
         loose_pattern = r'[A-F]'
         if pattern == loose_pattern:
-            return None
+            if model_answer == 'Yes.':
+                return 'A'
+            elif model_answer == 'No.':
+                return 'B'
+            else:
+                return None
         else:
-            return extract_and_choose_answer(loose_pattern, model_answer) 
+            return extract_and_choose_answer(loose_pattern, model_answer)
         
     max_count = max(option_count.values())
     max_options = [option for option, count in option_count.items() if count == max_count]
@@ -181,14 +193,3 @@ if __name__ == "__main__":
     generate_response(args)
     generate_score(args.output_path, args.score_path)
 
-'''
-
-accelerate launch ./src/evaluate/eval_qwen.py \
---model_path=./checkpoints/Qwen-1.8B \
---input_path=./data/Qwen-1.8B/test.json \
---output_path=./result/Qwen-1.8B/model_ans.jsonl \
---score_path=./result/Qwen-1.8B/score.json \
---num_return=1 \
---batch_size=8 > ${log_folder}/$log_name 2>&1 &
-
-'''
