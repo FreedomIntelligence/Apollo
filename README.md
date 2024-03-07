@@ -90,6 +90,15 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
 Please use the following citation if you intend to use our dataset for training or evaluation:
 
 ```
+@misc{wang2024apollo,
+   title={Apollo: Lightweight Multilingual Medical LLMs towards Democratizing Medical AI to 6B People},
+   author={Xidong Wang and Nuo Chen and Junyin Chen and Yan Hu and Yidong Wang and Xiangbo Wu and Anningzhe Gao and Xiang Wan and Haizhou Li and Benyou Wang},
+   year={2024},
+   eprint={2403.03640},
+   archivePrefix={arXiv},
+   primaryClass={cs.CL}
+}
+
 @misc{Apollo,
   title={Apollo, Multilingual Medicine: Model, Dataset, Benchmark, Code},
   author={Xidong Wang, Junyin Chen, Nuo Chen, Yidong Wang, Zhiyi Zhang, Benyou Wang},
