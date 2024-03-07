@@ -17,6 +17,7 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
 
 ## 🌈 Update
 
+* **[2024.03.07]** [Paper](https://arxiv.org/abs/2403.03640) released.
 * **[2024.02.12]** <a href="https://huggingface.co/datasets/FreedomIntelligence/ApolloCorpus" target="_blank">ApolloCorpus</a> and  <a href="https://huggingface.co/datasets/FreedomIntelligence/XMedbench" target="_blank">XMedBench</a>  is published！🎉
 * **[2024.01.23]** Apollo repo is published！🎉
 
