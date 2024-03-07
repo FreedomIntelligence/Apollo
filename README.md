@@ -136,7 +136,7 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
     
    2. Prepare test and dev for specific model:
       
-   - We create test data for specific model with their special token
+   - Create test data for specific model with their special token, you can use ./util/check.ipynb to check their special tokens
 
        ```
        bash 1.data_process_test&dev.sh
