@@ -2,7 +2,7 @@
 #python *.py
 
 process_port=29502
-experiment_name=qwen0_5_allsft
+experiment_name=Qwen1.5_0.5B_allsft
 model_dir=/your_model_path/Qwen1.5-0.5B
 train_data_file=./data/Qwen/allsftData
 dev_data_file=./data/Qwen/dev.json
