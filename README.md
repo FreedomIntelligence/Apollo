@@ -138,37 +138,37 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
       
    - We create test data for specific model with their special token
 
-    ```
-    bash 1.data_process_test&dev.sh
-    ```
+       ```
+       bash 1.data_process_test&dev.sh
+       ```
     
    3. Prepare train data for specific model (Create tokenizered data in advance):
     
    - You can adjust data Training order and Training Epoch in this step
       
-    ```
-    bash 2.data_process_train.sh
-    ```
+       ```
+       bash 2.data_process_train.sh
+       ```
     
    4. Train the model
     
    - If you want to train in Multi Nodes please refer to ./scripts/multi_node_train_*.sh
       
-    ```
-    bash 3.single_node_train_qwen.sh
-    ```
+       ```
+       bash 3.single_node_train_qwen.sh
+       ```
     
    5. Evaluate your model: Generate score for benchmark
       
-      ```
-      bash 4.eval.sh
-      ```
+         ```
+         bash 4.eval.sh
+         ```
 
    6. Evaluate your model: Play with your ckpts in bash
     
-      ```
-      python ./src/evaluate/cli_demo.py --model_name='./ckpts/your/path/tfmr'
-      ```
+         ```
+         python ./src/evaluate/cli_demo.py --model_name='./ckpts/your/path/tfmr'
+         ```
   
    
    </details>
