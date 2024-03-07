@@ -161,8 +161,8 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
       ```
       bash 4.eval.sh
       ```
-      
-    - Play with your ckpts in bash
+
+   6. Play with your ckpts in bash
     
       ```
       python ./src/evaluate/cli_demo.py --model_name='./ckpts/your/path/tfmr'
