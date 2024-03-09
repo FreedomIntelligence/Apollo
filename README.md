@@ -143,7 +143,7 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
        bash 1.data_process_test&dev.sh
        ```
     
-   3. Prepare train data for specific model (Create tokenizered data in advance):
+   3. Prepare train data for specific model (Create tokenized data in advance):
     
       - You can adjust data Training order and Training Epoch in this step
 
