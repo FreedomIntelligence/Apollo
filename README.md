@@ -139,6 +139,7 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
    2. Prepare test and dev for specific model:
       
       - Create test data for with special token, you can use ./util/check.ipynb to check models' special tokens
+
  
        ```
        bash 1.data_process_test&dev.sh
@@ -148,6 +149,7 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
     
       - You can adjust data Training order and Training Epoch in this step
 
+
        ```
        bash 2.data_process_train.sh
        ```
@@ -155,6 +157,7 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
    4. Train the model
     
       - If you want to train in Multi Nodes please refer to ./scripts/multi_node_train_*.sh
+
 
        ```
        bash 3.single_node_train_gemma.sh
