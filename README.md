@@ -139,7 +139,6 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
    2. Prepare test and dev for specific model:
       
       - Create test data for with special token, you can use ./util/check.ipynb to check models' special tokens
-
  
        ```
        bash 1.data_process_test&dev.sh
@@ -149,7 +148,6 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
     
       - You can adjust data Training order and Training Epoch in this step
 
-      
        ```
        bash 2.data_process_train.sh
        ```
@@ -158,29 +156,29 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
     
       - If you want to train in Multi Nodes please refer to ./scripts/multi_node_train_*.sh
 
-      
        ```
-       bash 3.single_node_train_qwen.sh
+       bash 3.single_node_train_gemma.sh
        ```
-    
-   5. Evaluate your model: Generate score for benchmark
+
+   5. (Optional) Proxy-Tuning: Directly improve model capabilities without fine-tuning
+
+       ```
+         bash src/proxy-tuning/scripts/eval/proxy_tuning.sh
+       ```
+   6. Evaluate your model: Generate score for benchmark
       
          ```
          bash 4.eval.sh
          ```
 
-   6. Evaluate your model: Play with your ckpts in bash
+   7. Evaluate your model: Play with your ckpts in bash
     
          ```
          python ./src/evaluate/cli_demo.py --model_name='./ckpts/your/path/tfmr'
          ```
-  
    
    </details>
 
-##  To do list
-
-- Open source Proxy Tuning code
 
 ##  Acknowledgment
 
