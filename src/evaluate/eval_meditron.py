@@ -156,7 +156,7 @@ def generate_response(args):
     if dist.is_initialized():
         accelerator.print(f'****************dist.get_world_size():{dist.get_world_size()}******************')
 
-    model, dataloader = accelerator.prepare(model, dataloader)
+    dataloader = accelerator.prepare(dataloader)
     accelerator.print(f'******************load_model from {model_path}******************')
 
     if accelerator.is_main_process:
