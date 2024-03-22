@@ -128,6 +128,7 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
    
 ## Results reproduction
    <details><summary>Click to expand</summary>
+
    
    We take Gemma-2b as example
    1. Download Dataset for project:
@@ -137,26 +138,29 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
       ```
     
    2. Prepare test and dev for specific model:
+
       
       - Create test data for with special token, you can use ./util/check.ipynb to check models' special tokens
-
- 
+        
        ```
        bash 1.data_process_test&dev.sh
        ```
     
    3. Prepare train data for specific model (Create tokenized data in advance):
+
     
       - You can adjust data Training order and Training Epoch in this step
-
 
        ```
        bash 2.data_process_train.sh
        ```
     
    4. Train the model
+
     
       - If you want to train in Multi Nodes please refer to ./scripts/multi_node_train_*.sh
+
+
 
 
        ```
