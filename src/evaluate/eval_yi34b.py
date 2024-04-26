@@ -10,8 +10,17 @@ import torch.distributed as dist
 from collections import defaultdict
 from llama_index.llms.vllm import Vllm
 
+llm = Vllm(
+    model='/223040239/medbase/ckpts/Yi34B_ALLSFT_train_COM/checkpoint-0-910/tfmr',
+    trust_remote_code=True, 
+    max_new_tokens=64,
+    temperature=0,
+    dtype="bfloat16",
+    tensor_parallel_size=8,
+vllm_kwargs={"swap_space": 1},
+)
 
-def get_answer(data:str,llm):
+def get_answer(data:str):
     response=llm.complete(
         data
     )
@@ -19,12 +28,12 @@ def get_answer(data:str,llm):
 
 
 def extract_and_choose_answer(pattern, model_answer):
-    # if '\n' in model_answer:
-    #     model_answer_split = model_answer.split('\n')
-    #     for model_answer_i in model_answer_split:
-    #         if len(model_answer_i):
-    #             model_answer = model_answer_i
-    #             break
+    if '\n' in model_answer:
+        model_answer_split = model_answer.split('\n')
+        for model_answer_i in model_answer_split:
+            if len(model_answer_i):
+                model_answer = model_answer_i
+                break
     matches = re.findall(pattern, model_answer)
     option_count = {}
     for match in matches:
@@ -94,7 +103,7 @@ def generate_score(result_path, score_path, wrong_item_path):
     print(f'***********wrong_item save in {wrong_item_path}*************')
     
 
-def generate_response(args,llm):
+def generate_response(args):
 
     
     # model_path = args.model_path
@@ -106,7 +115,7 @@ def generate_response(args,llm):
 
         for item in tqdm(data):
             question=item['question']
-            answer=get_answer(question,llm)
+            answer=get_answer(question)
             item['model_answer']=answer
             fp.write(json.dumps(item, ensure_ascii=False) +'\n')
             fp.flush()
@@ -114,22 +123,13 @@ def generate_response(args,llm):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--model_path", type=str, help="path to the desired checkpoint folder, e.g., path/checkpoint-12")
+    # parser.add_argument("--model_path", type=str, help="path to the desired checkpoint folder, e.g., path/checkpoint-12")
     parser.add_argument("--input_path", type=str, help="path to the input data")
     parser.add_argument("--output_path", type=str, help="path to the output data")
     parser.add_argument("--score_path", type=str, help="path to the score")
     parser.add_argument("--wrong_item_path", type=str, help="path to the wrong_item")
     args = parser.parse_args()
-    llm = Vllm(
-        model=args.model_path,
-        trust_remote_code=True, 
-        max_new_tokens=64,
-        temperature=0,
-        dtype="bfloat16",
-        tensor_parallel_size=8,
-        vllm_kwargs={"swap_space": 1},
-    )
-    generate_response(args,llm)
+    generate_response(args)
     generate_score(args.output_path, args.score_path, args.wrong_item_path)
 
 
