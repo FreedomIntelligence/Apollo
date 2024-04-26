@@ -36,8 +36,10 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
       
    
 
-  
+## Usage Format
 
+- 0.5B, 1.8B, 2B, 6B, 7B: User:{query}\nAssistant:{response}<|endoftext|>
+- 34B, 72B: <|User|>:{query}\n<|Assistant|>:{response}<|endoftext|>
 
 ## Dataset & Evaluation
 
