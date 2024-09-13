@@ -13,6 +13,7 @@ cd train/pretrain
 for file in *; do
     if [[ $file == *_qa.json ]]; then
         cp "$file" "../mixTrain/"
+    fi
 done
 cd ../
 
