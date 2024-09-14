@@ -84,7 +84,7 @@ def generate_completions(
     
     num_return_sequences = generation_kwargs.get("num_return_sequences", 1)
     model_type = model.base.config.model_type
-    output_path = generation_kwargs.get("output_path", "/223040239/medbase/src/proxy-tuning/outputs/gemma-7b.jsonl")
+    output_path = generation_kwargs.get("output_path", "../outputs/gemma-7b.jsonl")
     fp = open(output_path,'w')
     for i in range(0, len(prompts), batch_size):
         batch_items = prompts[i:i+batch_size]
