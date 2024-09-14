@@ -6,6 +6,7 @@ mkdir -p $result_folder
 log_name=$(date +"%m-%d_%H-%M").log
 
 CUDA_LAUNCH_BLOCKING=1 accelerate launch --main_process_port 23035 ./src/evaluate/eval_gemma.py \
+--model_path=./ckpts/gemma-2b_MixTrain \
 --input_path=./data/gemma/test.json \
 --output_path=${result_folder}/model_ans.jsonl \
 --score_path=${result_folder}/score.json \
