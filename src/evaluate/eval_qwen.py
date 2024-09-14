@@ -92,7 +92,7 @@ def extract_and_choose_answer(pattern, model_answer):
     
     
     
-def generate_score(result_path, score_path):
+def generate_score(result_path, score_path, wrong_item_path):
     with open(result_path, 'r', encoding='utf-8') as jsonl_file:
         json_objects = [json.loads(line.strip()) for line in jsonl_file]
         
@@ -187,9 +187,9 @@ if __name__ == "__main__":
     parser.add_argument("--input_path", type=str, help="path to the input data")
     parser.add_argument("--output_path", type=str, help="path to the output data")
     parser.add_argument("--score_path", type=str, help="path to the score")
+    parser.add_argument("--wrong_item_path", type=str, help="path to the wrong_item")
     parser.add_argument("--num_return", type=int, help="number of return sequences")
     parser.add_argument("--batch_size", type=int, help="batch size")
     args = parser.parse_args()
     generate_response(args)
-    generate_score(args.output_path, args.score_path)
-
+    generate_score(args.output_path, args.score_path, args.wrong_item_path)
