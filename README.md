@@ -9,7 +9,7 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
 
 
 <p align="center">
-   📃 <a href="https://arxiv.org/abs/2403.03640" target="_blank">Paper</a> • 🌐 <a href="https://apollo.llmzoo.com/" target="_blank">Demo</a> • 🤗 <a href="https://huggingface.co/datasets/FreedomIntelligence/ApolloCorpus" target="_blank">ApolloCorpus</a> • 🤗 <a href="https://huggingface.co/datasets/FreedomIntelligence/XMedbench" target="_blank">XMedBench</a> 
+   📃 <a href="https://arxiv.org/abs/2403.03640" target="_blank">Paper</a> • 🌐 <a href="https://apollo.llmzoo.com/" target="_blank">Demo</a> • 🤗 <a href="https://huggingface.co/datasets/FreedomIntelligence/ApolloCorpus" target="_blank">ApolloCorpus</a> • 🤗 <a href="https://huggingface.co/datasets/FreedomIntelligence/XMedbench" target="_blank">XMedBench</a>  • 🌐 <a href="https://github.com/FreedomIntelligence/ApolloMoE" target="_blank">ApolloMoE</a>
    <br>  <a href="./README_zh.md"> 中文 </a> | <a href="./README.md"> English
 </p>
 
@@ -17,6 +17,7 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
 
 ## 🌈 Update
 
+* **[2024.10.15]** [ApolloMoE](https://github.com/FreedomIntelligence/ApolloMoE) repo released, covering 50 Languages.
 * **[2024.04.25]** [MedJamba](https://huggingface.co/FreedomIntelligence/Apollo-MedJamba) released, train and evaluation code refer to [repo](https://github.com/FreedomIntelligence/MedJamba).
 * **[2024.03.07]** [Paper](https://arxiv.org/abs/2403.03640) released.
 * **[2024.02.12]** <a href="https://huggingface.co/datasets/FreedomIntelligence/ApolloCorpus" target="_blank">ApolloCorpus</a> and  <a href="https://huggingface.co/datasets/FreedomIntelligence/XMedbench" target="_blank">XMedBench</a>  is published！🎉
