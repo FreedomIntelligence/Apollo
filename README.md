@@ -1,11 +1,6 @@
 # Multilingual Medicine: Model, Dataset, Benchmark, Code
 
 Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
-<center>
-
-![Python 3.10](https://img.shields.io/badge/Python-3.10-lightblue) ![Pytorch 2.1.2](https://img.shields.io/badge/PyTorch-2.1.2-lightblue) ![transformers](https://img.shields.io/badge/transformers-4.34.0.dev0%2B-lightblue) ![accelerate](https://img.shields.io/badge/accelerate-0.22-lightblue)
-</center>
-
 
 
 <p align="center">
