@@ -196,10 +196,10 @@ Covering English, Chinese, French, Hindi, Spanish, Hindi, Arabic So far
 ##  Citation
 Please use the following citation if you intend to use our dataset for training or evaluation:
 
-```
+```BibTeX
 @misc{wang2024apollo,
-   title={Apollo: Lightweight Multilingual Medical LLMs towards Democratizing Medical AI to 6B People},
-   author={Xidong Wang and Nuo Chen and Junyin Chen and Yan Hu and Yidong Wang and Xiangbo Wu and Anningzhe Gao and Xiang Wan and Haizhou Li and Benyou Wang},
+   title={Apollo: A Lightweight Multilingual Medical LLM towards Democratizing Medical AI to 6B People},
+   author={Xidong Wang and Nuo Chen and Junyin Chen and Yidong Wang and Guorui Zhen and Chunxian Zhang and Xiangbo Wu and Yan Hu and Anningzhe Gao and Xiang Wan and Haizhou Li and Benyou Wang},
    year={2024},
    eprint={2403.03640},
    archivePrefix={arXiv},
